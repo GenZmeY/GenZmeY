@@ -2,7 +2,5 @@
 
 <details>
   <summary>![](preview.png)</summary>
-  ```
-  hidden text
-  ```
+ ## HEAD
 </details>
