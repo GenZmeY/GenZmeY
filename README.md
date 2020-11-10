@@ -1,1 +1,1 @@
-[![](preview.png)](https://github.com/GenZmeY)
+[![](PreviewAlt.png)](https://github.com/GenZmeY)
