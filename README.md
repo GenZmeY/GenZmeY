@@ -1,1 +1,1 @@
-![](PreviewAlt.png)
+[![](PreviewAlt.png)]()
