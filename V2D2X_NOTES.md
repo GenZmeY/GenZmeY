@@ -1,12 +1,12 @@
 # About VFR support:
-I can get all information about each frame like this:
+I can get all information about each frame like this:  
 `ffprobe -v quiet -show_entries packet -select_streams <stream_index> <videofile>`
 
-And here is a way to take something specific:
+And here is a way to take something specific:  
 `ffprobe -v quiet -show_entries packet=pts_time,duration_time -select_streams <stream_index> <videofile>`
 
 It is possible to concatenate all frames from variable times using ffmpeg concat.
-Need to make a file with the following content:
+Need to make a file with the following content:  
 ```
 ffconcat version 1.0
 file './frames_upscaled/000001.png'
@@ -23,7 +23,7 @@ I should note that in the case of VFR there is more than just frame time. There 
 * dts is a decoding time stamp, that is, in what order the frames should be decoded.  
 And apparently the frames are stored in dts order, which complicates things for me.  
 
-Then merge video like this:
+Then merge video like this:  
 ```
 ffmpeg \
 	-hide_banner \
