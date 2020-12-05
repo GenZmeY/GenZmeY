@@ -13,5 +13,5 @@ I had to use google translate in some places, so translation corrections are wel
 # Copyright & License
 
 Released under the [MIT license](LICENSE).  
-Copyright (c) 2013-2020 Ghost Foundation
-Copyright (c)      2020 GenZmeY
+Copyright (c) 2013-2020 Ghost Foundation  
+Copyright (c)      2020 GenZmeY  
