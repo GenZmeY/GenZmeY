@@ -6,12 +6,31 @@
 
 The same [casper](https://github.com/TryGhost/Casper), but with localization support.
 
+# Available languages
+- Chinese (zh)
+- Croatian (hr)
+- English (en)
+- Finnish (fi)
+- French (fr)
+- German (de)
+- Hungarian (hu)
+- Indonesian (id)
+- Italian (it)
+- Lithuanian (lt)
+- Norwegian Bokmål (nb)
+- Polish (pl)
+- Romanian (ro)
+- Russian (ru)
+- Spanish (es)
+- Swedish (sv)
+- Turkish (tr)
+
 # Contribution
 
-I had to use google translate in some places, so translation corrections are welcome.
+I had to use google translate in some places, so translation corrections are welcome.  
+You can also add a new translation.  
+If your contribution is not related to translation - contribute it to the original [casper](https://github.com/TryGhost/Casper).  
 
 # Copyright & License
 
-Released under the [MIT license](LICENSE).  
-Copyright (c) 2013-2020 Ghost Foundation  
-Copyright (c)      2020 GenZmeY  
+Copyright (c) 2013-2020 Ghost Foundation - Released under the [MIT license](LICENSE).  
