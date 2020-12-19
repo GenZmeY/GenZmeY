@@ -7,16 +7,19 @@
 [![GitHub](https://img.shields.io/github/license/genzmey/multini)](LICENSE)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/GenZmeY/multini)](https://github.com/GenZmeY/multini/releases)
 
-*Command line utility for manipulating ini files with duplicate key names.*
+*Утилита командной строки для манипулирования ini файлами с дублирующимися именами ключей.*
 
-A compiled version of multini is available on the [release page](https://github.com/GenZmeY/multini/releases).
+Скомпилированная версия multini доступна на [странице релизов](https://github.com/GenZmeY/multini/releases).
 
 ***
 
-# Description
+# Описание
 Some programs use ini file format with duplicate key names.  
+Некоторые программы используют формат ini файлов с дублирующимися именами ключей.  
 For example, these are games based on the [unreal engine](https://en.wikipedia.org/wiki/Unreal_Engine).  
+Например игры основаные на [unreal engine](https://en.wikipedia.org/wiki/Unreal_Engine).  
 It might look like this (part of the Killing Floor 2 config):  
+Это может выглядеть так (часть конфигурации Killing Floor 2):
 ```
 [OnlineSubsystemSteamworks.KFWorkshopSteamworks]
 ServerSubscribedWorkshopItems=2267561023
