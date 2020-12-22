@@ -14,11 +14,8 @@
 ***
 
 # Описание
-Some programs use ini file format with duplicate key names.  
-Некоторые программы используют формат ini файлов с дублирующимися именами ключей.  
-For example, these are games based on the [unreal engine](https://en.wikipedia.org/wiki/Unreal_Engine).  
+Некоторые программы используют формат ini файлов допускающий повторяющиеся имена ключей.  
 Например игры основаные на [unreal engine](https://en.wikipedia.org/wiki/Unreal_Engine).  
-It might look like this (part of the Killing Floor 2 config):  
 Это может выглядеть так (часть конфигурации Killing Floor 2):
 ```
 [OnlineSubsystemSteamworks.KFWorkshopSteamworks]
@@ -27,86 +24,86 @@ ServerSubscribedWorkshopItems=2085786712
 ServerSubscribedWorkshopItems=2222630586
 ServerSubscribedWorkshopItems=2146677560
 ```
-Most implementations only support having one property with a given name in a section. If there are several of them, only the first (or last) key will be processed, which is not enough in this case. multini solves this problem.
+Большинство реализаций поддерживают только одно свойство с заданным именем в разделе. Если их несколько, будет обрабатываться только первый (или последний) ключ, чего в данном случае недостаточно. multini решает эту проблему.
 
 **note:**  
-- multini is case sensitive;
-- quotes around the value are not processed (they are part of the value for multini);  
-- multi-line values are not supported.  
-(but this may change in the future)  
+- multini чувствителен к регистру;  
+- кавычки вокруг значения не обрабатываются (multini считает их частью значения);  
+- многострочные значения не поддерживаются.  
+(но все это может измениться в будущем)  
 
-# Build & Install (Manual)
-1. Install [golang](https://golang.org), [git](https://git-scm.com/), [make](https://www.gnu.org/software/make/);
-2. Clone this repo: `git clone https://github.com/GenZmeY/multini`
-3. Go to the source directory: `cd multini`
-4. Build: `make`
-5. Install: `make install`
+# Сборка и установка (вручную)
+1. Установите [golang](https://golang.org), [git](https://git-scm.com/), [make](https://www.gnu.org/software/make/);
+2. Клонируйте этот репозиторий: `git clone https://github.com/GenZmeY/multini`
+3. Перейдите в каталог с исходниками: `cd multini`
+4. Выполните сборку: `make`
+5. Выполните установку: `make install`
 
-# Usage
+# Использование
 ```
-Usage: multini [OPTION]... ACTION ini_file [section] [key] [value]
-Actions:
-  -g, --get          Get values for a given combination of parameters.
-  -s, --set          Set values for a given combination of parameters.
-  -a, --add          Add values for a given combination of parameters.
-  -d, --del          Delete the given combination of parameters.
-  -c, --chk          Display parsing errors for the specified file.
+Использование: multini [ПАРАМЕТРЫ]... ДЕЙСТВИЕ ini_file [секция] [ключ] [значение]
+Действия:
+  -g, --get          Получить значения для заданной комбинации параметров.
+  -s, --set          Установить значения для заданной комбинации параметров.
+  -a, --add          Добавить значения для заданной комбинации параметров.
+  -d, --del          Удалить указанную комбинацию параметров.
+  -c, --chk          Показать ошибки синтаксического анализа для указанного файла.
 
-Options:
-  -e, --existing     For --set and --del, fail if item is missing.
-  -r, --reverse      For --add, adds an item to the top of the section
-  -i, --inplace      Lock and write files in place.
-                     This is not atomic but has less restrictions
-                     than the default replacement method.
-  -o, --output FILE  Write output to FILE instead. '-' means stdout
-  -u, --unix         Use LF as end of line
-  -w, --windows      Use CRLF as end of line
-  -q, --quiet        Suppress all normal output
-  -h, --help         Write this help to stdout
-      --version      Write version to stdout
+Параметры:
+  -e, --existing     Для --set и --del завершить программу с ошибкой, если элемент остутствует.
+  -r, --reverse      Для --add добавлять элемент в начало секции
+  -i, --inplace      Перезаписывать исходный файл.
+                     Это не атомарно, но требует меньше разрешений
+                     чем способ по умолчанию с заменой файла.
+  -o, --output ФАЙЛ  Записать результат в ФАЙЛ. '-' означает стандартный вывод
+  -u, --unix         Использовать LF в конце строки
+  -w, --windows      Использовать CRLF в конце строки
+  -q, --quiet        Подавить весь вывод
+  -h, --help         Отобразить страницу помощи
+      --version      Отобразить версию
 ```
 
-# Examples
-**output a global value not in a section:**  
+# Примеры
+**вывести глобальное значение вне секции:**  
 `multini --get ini_file '' key`
 
-**output section:**  
+**вывести секцию:**  
 `multini --get ini_file section`
 
-**output list of existing sections:**  
+**вывести список секций:**  
 `multini --get ini_file`
 
-**output value:**  
+**вывести значение:**  
 `multini --get ini_file section key`  
-- if there are several keys, a list of all values of this keys will be displayed
+- если ключей несколько, отобразится список всех значений этих ключей
 
-**create/update a single key:**  
+**создать/обновить ключ (в единственном экземпляре):**  
 `multini --set ini_file section key value`  
-- if there is no key, it will be added  
-- if the key exists, the value will be updated  
-- if the key exists and has several values, the key with the specified value will be set, the rest of the values will be deleted
+- если ключа нет, он будет добавлен  
+- если ключ существует, значение будет обновлено  
+- если ключ существует и имеет несколько значений, будет установлен ключ с указанным значением, остальные значения будут удалены
 
-**add a key with specified value:**  
+**добавить ключ с указанным значением:**  
 `multini --add ini_file section key value`  
-- if there is no key, it will be added  
-- if the key exists and does not have the specified value, the new value will be added  
-- if the specified value repeats the existing one, no changes will be made
+- если ключа нет, он будет добавлен
+- если ключ существует и не имеет указанного значения, будет добавлено новое значение
+- если указанное значение повторяет существующее, никаких изменений не будет
 
-**delete all keys with specified name:**  
+**удалить все ключи с указанным именем:**  
 `multini --del ini_file section key`
 
-**delete a key with specified name and value:**  
+**удалить ключ с указанным именем и значением:**  
 `multini --del ini_file section key value`
 
-**delete a section:**  
+**удалить секцию:**  
 `multini --del ini_file section`
 
-**short options can be combined:**  
+**короткие версии параметров можно комбинировать:**  
 `multini -gq ini_file section key value`  
-- check the existence of a key with a given value using the return code
+- проверить наличие ключа с заданным значением, используя код возврата
 
-# License
+# Лицензия
 Copyright © 2020 GenZmeY
 
-The content of this repository is licensed under [MIT License](LICENSE).
+[MIT License](LICENSE).
 
