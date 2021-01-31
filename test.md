@@ -7,8 +7,6 @@
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/GenZmeY/KF2-TAWOD)](https://github.com/GenZmeY/KF2-TAWOD/tags)
 [![GitHub](https://img.shields.io/github/license/GenZmeY/KF2-TAWOD)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-# Description
-
 A small mutator that forces players to throw all their weapons on death (not just the current weapon as in the game by default). 
 
 # Build
