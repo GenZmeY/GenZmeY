@@ -37,4 +37,4 @@ If you find a bug, create new issue here: [Issues](https://github.com/GenZmeY/KF
 Describe what the bug looks like and how to reproduce it.  
 
 # License
-The mutator is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html).
+The mutator is licensed under the [GNU GPLv3](LICENSE).
