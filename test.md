@@ -11,12 +11,12 @@ A small mutator that forces players to throw all their weapons on death (not jus
 
 # Build
 1. Install [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2/), Killing Floor 2 - SDK and [git for windows](https://git-scm.com/download/win);
-2. Open git-bash, clone this repository and go to the source folder:
-`git clone https://github.com/GenZmeY/KF2-TAWOD && cd KF2-TAWOD`
-3. Run make.sh script:
-`./make.sh --compile`
+2. Open git-bash, clone this repository and go to the source folder:  
+`git clone https://github.com/GenZmeY/KF2-TAWOD && cd KF2-TAWOD`  
+3. Run make.sh script:  
+`./make.sh --compile`  
 4. The compiled files will be here:  
-`C:\Users\<USERNAME>\Documents\My Games\KillingFloor2\KFGame\Unpublished\BrewedPC\Script\`
+`C:\Users\<USERNAME>\Documents\My Games\KillingFloor2\KFGame\Unpublished\BrewedPC\Script\`  
 
 # Testing
 You can check your build using the `make.sh` script.  
@@ -27,10 +27,10 @@ On first launch, the script will create `testing.ini` file and launch the game w
 # Usage (Server)
 1. Open your PCServer-KFEngine.ini / LinuxServer-KFEngine.ini;  
 2. Add the following string to the [OnlineSubsystemSteamworks.KFWorkshopSteamworks] section:  
-`ServerSubscribedWorkshopItems=2379769040`
-3. Start the server and wait while the mutator is downloading;
-4. Add the following line to the startup parameters and restart the server:
-`?Mutator=TAWOD.TAWODMut`
+`ServerSubscribedWorkshopItems=2379769040`  
+3. Start the server and wait while the mutator is downloading;  
+4. Add the following line to the startup parameters and restart the server:  
+`?Mutator=TAWOD.TAWODMut`  
 
 # Bug reports
 If you find a bug, create new issue here: [Issues](https://github.com/GenZmeY/KF2-TAWOD/issues)
