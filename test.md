@@ -33,7 +33,7 @@ On first launch, the script will create `testing.ini` file and launch the game w
 `?Mutator=TAWOD.TAWODMut`  
 
 # Bug reports
-If you find a bug, create new issue here: [Issues](https://github.com/GenZmeY/KF2-TAWOD/issues)
+If you find a bug, create new issue here: [Issues](https://github.com/GenZmeY/KF2-TAWOD/issues)  
 Describe what the bug looks like and how to reproduce it.  
 
 # License
