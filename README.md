@@ -2,7 +2,7 @@
 
 # 👋 Welcome!
 <p align="left">
-  <a href="https://github.com/GenZmeY"><img src="https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&theme=nord&count_private=true&show_icons=true" alt="GenZmeY's github stats"></a>
+  <a href="https://github.com/GenZmeY"><img src="https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&theme=default&count_private=true&show_icons=true" alt="GenZmeY's github stats"></a>
 </p>
 
 # 🛠 Projects 
