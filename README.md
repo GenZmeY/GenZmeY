@@ -1,4 +1,4 @@
-[![](PreviewAlt.png)](https://github.com/GenZmeY)
+[![](PreviewAlt.png)](https://wiki.puella-magi.net/Deciphering_the_runes)
 
 # 👋 Welcome!
 <p align="left">
