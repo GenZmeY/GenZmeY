@@ -7,7 +7,7 @@
 
 # 🛠 Projects 
 - [Multini](https://github.com/GenZmeY/multini) - command line utility for manipulating ini files with duplicate key names.  
-- [KF2-SRV](https://github.com/GenZmeY/kf2-srv) - command line tool for managing a set of [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2) servers. I use it for [my KF2 servers](https://steamcommunity.com/groups/msk-gs).  
+- [KF2-SRV](https://github.com/GenZmeY/kf2-srv) - command line tool for managing a set of [Killing Floor 2](https://store.steampowered.com/app/232090/Killing_Floor_2) servers (used on [my KF2 servers](https://steamcommunity.com/groups/msk-gs)).  
 - [TG-Avatar-Alteration](https://github.com/GenZmeY/TG-Avatar-Alteration) - service that automatically changes your telegram avatar during the day.  
 - [Casper-i18n](https://github.com/GenZmeY/Casper-i18n) - the default theme for [Ghost](https://ghost.org/) with localization support.  
 - [KF2-Server-Extension](https://github.com/GenZmeY/KF2-Server-Extension) - further development of the KF2 ServerExt mutator from Marco and Forrest Mark X.  
