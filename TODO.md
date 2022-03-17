@@ -20,6 +20,7 @@
 - [ ] add autotests
 - [ ] firewalld autoupdate
 - [ ] webadmin patch
+- [ ] antiddos integration
 
 
 # RPM Repo with autoupdate
