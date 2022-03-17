@@ -12,8 +12,9 @@
 
 
 # [KF2-SRV](https://github.com/GenZmeY/KF2-SRV/blob/master/TODO.md)
-- [ ] split source and rpmbuild
-- [ ] add shellcheck
+- [x] split source and rpmbuild
+- [x] add shellcheck
+- [ ] add autotests
 - [ ] webadmin patch
 
 
