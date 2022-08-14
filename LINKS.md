@@ -7,4 +7,4 @@
 [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=gray&color=red&logoColor=white&label=%20)](https://www.youtube.com/user/GenZmeY)
 
 
-[![GitHub](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin)](LICENSE)
+[![GitHub](https://img.shields.io/github/license/GenZmeY/KF2-CustomTraderInventory)](LICENSE)
