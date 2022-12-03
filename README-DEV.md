@@ -11,7 +11,7 @@
 |<picture><img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
 |<picture><img src="https://simpleicons.org/icons/cplusplus.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
 |<picture><img src="https://simpleicons.org/icons/ghost.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
-|<picture><img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top"></picture>|asd|Text2|
+|<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|asd|Text2|
 
 
 df
