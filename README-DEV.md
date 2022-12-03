@@ -1,12 +1,16 @@
-[![](PreviewAlt.png)](https://wiki.puella-magi.net/Deciphering_the_runes)
+[![](PreviewAlt.png)](#)
 
 # 👋 Welcome!
-![Stats](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true)
+[![](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true)](#) [![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true)](#)
 
 # 🛠 Projects
-| <!-- -->    | <!-- -->    | |
+||||
 |-|-|-|
-|![UE](UnrealEngine.svg)| Bar         | sdf|
+|<picture><img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
+|<picture><img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
+|<picture><img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
+|<picture><img src="https://simpleicons.org/icons/cplusplus.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
+|<picture><img src="https://simpleicons.org/icons/ghost.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
