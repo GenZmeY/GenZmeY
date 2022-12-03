@@ -1,9 +1,12 @@
 [![](PreviewAlt.png)](https://wiki.puella-magi.net/Deciphering_the_runes)
 
 # 👋 Welcome!
-<p align="left">
-  <a href="https://github.com/GenZmeY"><img src="https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true" alt="GenZmeY's github stats"></a>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true)
+
+# 🛠 Projects
+| <!-- -->    | <!-- -->    | |
+|-|-|-|
+|![UE](https://simpleicons.org/icons/unrealengine.svg)| Bar         | sdf|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
