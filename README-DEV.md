@@ -6,7 +6,7 @@
 # 🛠 Projects
 | <!-- -->    | <!-- -->    | |
 |-|-|-|
-|![UE](https://simpleicons.org/icons/unrealengine.svg)| Bar         | sdf|
+|![UE](UnrealEngine.svg)| Bar         | sdf|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
