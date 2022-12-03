@@ -13,6 +13,8 @@
 |<picture><img src="https://simpleicons.org/icons/ghost.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
 |<picture><img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top"></picture>|Text1|Text2|
 
+
+df
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
 [![PlayStation](https://img.shields.io/static/v1?message=PlayStation&logo=playstation&labelColor=gray&color=blue&logoColor=white&label=%20)](https://my.playstation.com/profile/GenZmeY)
