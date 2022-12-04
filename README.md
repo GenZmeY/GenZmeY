@@ -7,7 +7,7 @@
 |⭐️|Apps & Utils||
 |-|:-|-|
 |<img src="https://simpleicons.org/icons/cplusplus.svg" width="24" height="24" align="top">|[BookkeepingWatchdog](https://github.com/GenZmeY/BookkeepingWatchdog)|App to control your working time (made for a specific case, so it is unlikely to suit anyone...)|
-|<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[KF2-AntiDDoS](https://github.com/GenZmeY/KF2-AntiDDoS)|DDoS protection of the kf2 server from [one of the attacks faced by community](https://forums.tripwireinteractive.com/index.php?threads/kf2-server-on-centos-linux-ddos-defense-with-the-help-of-firewalld.2337631/)|
+|<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[KF2-AntiDDoS](https://github.com/GenZmeY/KF2-AntiDDoS)|DDoS protection of the KF2 server from [one of the attacks faced by community](https://forums.tripwireinteractive.com/index.php?threads/kf2-server-on-centos-linux-ddos-defense-with-the-help-of-firewalld.2337631/)|
 |<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-BuildTools](https://github.com/GenZmeY/KF2-BuildTools)|KF2 mutator build script with a wide range of features|
 |<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-SRV](https://github.com/GenZmeY/KF2-SRV)|Command line tool for managing [Killing Floor 2](https://en.wikipedia.org/wiki/Killing_Floor_2) servers|
 |<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[multini](https://github.com/GenZmeY/multini)|Command line tool for manipulating ini files|
