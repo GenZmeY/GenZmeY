@@ -17,7 +17,7 @@
 |⭐️|**Killing Floor 2 Mutators**||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-AdminAutoLogin](https://github.com/GenZmeY/KF2-AdminAutoLogin)|Small server-side mutator that allows specified players to automatically login as an admin|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-ControlledVoteCollector](https://github.com/GenZmeY/KF2-ControlledVoteCollector)|New vote collector with improvements and features |
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-CustomTraderInventory](https://github.com/GenZmeY/KF2-CustomTraderInventory)|Add/Remove Items in the Trader's Inventory|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-CustomTraderInventory](https://github.com/GenZmeY/KF2-CustomTraderInventory)|Add/Remove Items in the trader's Inventory|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-DroppedPickupLifespan](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)|Small server-side mutator that changes the lifespan of thrown weapons and dosh|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-LootedTraderInventory](https://github.com/GenZmeY/KF2-LootedTraderInventory)|Remove items from trader's inventory|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-SafeMutLoader](https://github.com/GenZmeY/KF2-SafeMutLoader)|Use non-whitelisted mutators and stay ranked|
