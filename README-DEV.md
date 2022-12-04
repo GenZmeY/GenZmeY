@@ -4,8 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true)
 
 # 🛠 Projects
-
-### Apps / Utils / Themes 
 |⭐️|Apps & Utils||
 |-|:-|-|
 |<img src="https://simpleicons.org/icons/cplusplus.svg" width="24" height="24" align="top">|[BookkeepingWatchdog](https://github.com/GenZmeY/BookkeepingWatchdog)|App to control your working time (made for a specific case, so it is unlikely to suit anyone...)|
