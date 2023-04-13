@@ -1,7 +1,7 @@
 ![](PreviewAlt.png)
 
 # 👋 Welcome!
-![](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true&exclude_repo=KF2-Dev-Scripts,UnofficialMod,Zedternal-Reborn,KF2-FriendlyHUD)
 
 # 🛠 Projects
 |⭐️|Apps & Utils||
