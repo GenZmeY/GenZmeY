@@ -4,15 +4,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=GenZmeY&hide_border=true&include_all_commits=true&theme=default&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GenZmeY&layout=compact&hide_border=true&exclude_repo=KF2-Dev-Scripts,UnofficialMod,Zedternal-Reborn,KF2-FriendlyHUD,KF2-CustomZeds,KF2-StartWave)
 
 # 🛠 Projects
-|⭐️|Apps & Utils||
+|⭐️|**Apps & Utils**||
 |-|:-|-|
-|<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[KF2-AntiDDoS](https://github.com/GenZmeY/KF2-AntiDDoS)|DDoS protection of the KF2 server from [one of the attacks faced by community](https://forums.tripwireinteractive.com/index.php?threads/kf2-server-on-centos-linux-ddos-defense-with-the-help-of-firewalld.2337631/)|
-|<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-BuildTools](https://github.com/GenZmeY/KF2-BuildTools)|KF2 mutator build script with a wide range of features|
-|<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-SRV](https://github.com/GenZmeY/KF2-SRV)|Command line tool for managing [Killing Floor 2](https://en.wikipedia.org/wiki/Killing_Floor_2) servers|
 |<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[multini](https://github.com/GenZmeY/multini)|Command line tool for manipulating ini files|
 |<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[TG-Avatar-Alteration](https://github.com/GenZmeY/TG-Avatar-Alteration)|Service that automatically changes your [telegram](https://telegram.org) avatar during the day|
 |⭐️|**Themes**||
 |<img src="https://simpleicons.org/icons/ghost.svg" width="24" height="24" align="top">|[casper-i18n](https://github.com/GenZmeY/casper-i18n)|Theme with localization support for [ghost](https://github.com/tryghost/ghost) blog ([casper](https://github.com/TryGhost/Casper) fork)|
+|⭐️|**Killing Floor 2 Utils**||
+|<img src="https://simpleicons.org/icons/go.svg" width="24" height="24" align="top">|[KF2-AntiDDoS](https://github.com/GenZmeY/KF2-AntiDDoS)|DDoS protection of the KF2 server from [one of the attacks faced by community](https://forums.tripwireinteractive.com/index.php?threads/kf2-server-on-centos-linux-ddos-defense-with-the-help-of-firewalld.2337631/)|
+|<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-BuildTools](https://github.com/GenZmeY/KF2-BuildTools)|KF2 mutator build script with a wide range of features|
+|<img src="https://simpleicons.org/icons/gnubash.svg" width="24" height="24" align="top">|[KF2-SRV](https://github.com/GenZmeY/KF2-SRV)|Command line tool for managing [Killing Floor 2](https://en.wikipedia.org/wiki/Killing_Floor_2) servers|
 |⭐️|**Killing Floor 2 Mutators**||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-AdminAutoLogin](https://github.com/GenZmeY/KF2-AdminAutoLogin)|Small server-side mutator that allows specified players to automatically login as an admin|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[KF2-ControlledVoteCollector](https://github.com/GenZmeY/KF2-ControlledVoteCollector)|New vote collector with improvements and features |
