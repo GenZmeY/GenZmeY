@@ -2,9 +2,10 @@
 
 ![](PreviewAlt.png)
 
-- Application Security Engineer, FOSS & Linux Enthusiast
-- Former C++ developer & Golang developer
-- ex Killing Floor 2 Modder & Server Operator
+- 🔐 Application Security Engineer
+- 🐧 FOSS & Linux Enthusiast
+- ⚙️ Former C++ developer & Golang developer
+- 🛠️ Ex Killing Floor 2 Modder & Server Operator
 
 ## 🛠 Projects
 ### 💾 Apps
