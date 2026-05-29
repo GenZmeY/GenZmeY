@@ -2,7 +2,6 @@
 
 ![](PreviewAlt.png)
 
-## About
 - Application Security Engineer, FOSS & Linux Enthusiast
 - Former C++ developer & Golang developer
 - ex Killing Floor 2 Modder & Server Operator
