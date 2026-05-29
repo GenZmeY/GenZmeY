@@ -3,9 +3,9 @@
 # 👋 Hi, I'm GenZmeY
 
 ## About
-- Application Security Engineer, Linux & FOSS Enthusiast
-- Former C++ Developer, Former Golang Developer
-- ex Killing Floor 2 Modder and Server Operator
+- Application Security Engineer, FOSS & Linux Enthusiast
+- Former C++ developer & Golang developer
+- ex Killing Floor 2 Modder & Server Operator
 
 ## 🛠 Projects
 ### Apps
