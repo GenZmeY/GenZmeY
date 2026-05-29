@@ -8,8 +8,8 @@
 
 ## 🛠 Projects
 ### 💾 Apps
-#### multini
-#### TG-Avatar-Alteration
+#### 🔳 multini
+#### ▪️ TG-Avatar-Alteration
 
 ### 🎨 Themes
 #### casper-i18n
