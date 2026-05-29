@@ -7,13 +7,14 @@
 - ex Killing Floor 2 Modder & Server Operator
 
 ## 🛠 Projects
-### Apps
+### 💾 Apps
 #### multini
+#### TG-Avatar-Alteration
 
-### Themes
+### 🎨 Themes
 #### casper-i18n
 
-### Killing Floor 2 Mods
+### 🎮 Killing Floor 2 Mods
 #### KF2-AdminAutoLogin
 #### KF2-BoxPainterLib
 #### KF2-ControlledVoteCollector
@@ -30,14 +31,14 @@
 #### KF2-ZedSpawner
 #### KF2-ZedternalZeds
 
-### Killing Floor 2 Utils
+### 🎮 Killing Floor 2 Utils
 #### KF2-AntiDDoS
 #### KF2-BuildTools
 #### KF2-Game-Scripts
 #### KF2-Ranked-Patch
 #### KF2-SRV
 
-### MSK-GS Project
+### 🎮 MSK-GS Project
 #### KF2-MSK-GS
 #### KF2-MSK-GS-Resources
 
