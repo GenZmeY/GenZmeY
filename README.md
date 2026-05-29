@@ -9,38 +9,38 @@
 
 ## 🛠 Projects
 ### Apps
-multini
+#### multini
 
 ### Themes
-casper-i18n
+#### casper-i18n
 
 ### Killing Floor 2 Mods
-KF2-AdminAutoLogin
-KF2-BoxPainterLib
-KF2-ControlledVoteCollector
-KF2-CustomTraderInventory
-KF2-DroppedPickupLifespan
-KF2-LootedTraderInventory
-KF2-SafeMutLoader
-KF2-Server-Extension
-KF2-StartWave
-KF2-TAWOD
-KF2-TrueRandomBoss
-KF2-UnofficialMod
-KF2-YetAnotherScoreboard
-KF2-ZedSpawner
-KF2-ZedternalZeds
+#### KF2-AdminAutoLogin
+#### KF2-BoxPainterLib
+#### KF2-ControlledVoteCollector
+#### KF2-CustomTraderInventory
+#### KF2-DroppedPickupLifespan
+#### KF2-LootedTraderInventory
+#### KF2-SafeMutLoader
+#### KF2-Server-Extension
+#### KF2-StartWave
+#### KF2-TAWOD
+#### KF2-TrueRandomBoss
+#### KF2-UnofficialMod
+#### KF2-YetAnotherScoreboard
+#### KF2-ZedSpawner
+#### KF2-ZedternalZeds
 
 ### Killing Floor 2 Utils
-KF2-AntiDDoS
-KF2-BuildTools
-KF2-Game-Scripts
-KF2-Ranked-Patch
-KF2-SRV
+#### KF2-AntiDDoS
+#### KF2-BuildTools
+#### KF2-Game-Scripts
+#### KF2-Ranked-Patch
+#### KF2-SRV
 
-### MSK-GS
-KF2-MSK-GS
-KF2-MSK-GS-Resources
+### MSK-GS Project
+#### KF2-MSK-GS
+#### KF2-MSK-GS-Resources
 
 ## 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
