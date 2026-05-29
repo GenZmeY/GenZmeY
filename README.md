@@ -21,6 +21,7 @@
 #### ▪️ multini
 [![Static Badge](https://img.shields.io/badge/Source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
 [![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)
+![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
 
