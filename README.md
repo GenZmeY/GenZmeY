@@ -10,6 +10,9 @@
 ## 🛠 Projects
 ### 💾 Apps
 #### ▪️ [multini]()
+
+A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
+
 #### ▪️ [TG-Avatar-Alteration]()
 
 ### 🎨 Themes
