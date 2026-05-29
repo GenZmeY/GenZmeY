@@ -9,11 +9,12 @@
 
 ## 🛠 Projects
 ### 💾 Apps
-#### ▪️ [multini]()
+#### ▪️ [multini](https://github.com/GenZmeY/multini)
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
 
-#### ▪️ [TG-Avatar-Alteration]()
+#### ▪️ [TG-Avatar-Alteration](https://github.com/GenZmeY/TG-Avatar-Alteration)
+Automatically change your Telegram avatar throughout the day
 
 ### 🎨 Themes
 #### ▪️ [casper-i18n]()
