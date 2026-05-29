@@ -20,7 +20,7 @@
 ### 💾 Apps
 #### ▪️ multini
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
-[![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)  
+[![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=flat)  
 ![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?label=%F0%9F%93%84%20license)
