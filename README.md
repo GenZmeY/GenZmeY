@@ -20,14 +20,14 @@
 ### 💾 Apps
 #### ▪️ multini
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
-[![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=flat)  
+[![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=flat)
 ![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?label=%F0%9F%93%84%20license)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?label=%F0%9F%93%A5%20downloads)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=flat&label=%E2%AD%90%20stars)  
+![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?label=%F0%9F%93%84%20license)  
 ![GitHub Release](https://img.shields.io/github/v/release/GenZmeY/multini)
-![GitHub Release Date](https://img.shields.io/github/release-date/GenZmeY/multini)
+![GitHub Release Date](https://img.shields.io/github/release-date/GenZmeY/multini)  
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=flat&label=%E2%AD%90%20stars)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?label=%F0%9F%93%A5%20downloads)  
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
 
