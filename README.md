@@ -9,7 +9,7 @@
 ## 🛠 Projects
 ### 💾 Apps
 #### ▪️ multini
-#### 🔹 TG-Avatar-Alteration
+#### ▪️ TG-Avatar-Alteration
 
 ### 🎨 Themes
 #### ▪️ casper-i18n
@@ -32,15 +32,15 @@
 #### ▪️ KF2-ZedternalZeds
 
 ### 🎮 Killing Floor 2 Utils
-#### KF2-AntiDDoS
-#### KF2-BuildTools
-#### KF2-Game-Scripts
-#### KF2-Ranked-Patch
-#### KF2-SRV
+#### ▪️ KF2-AntiDDoS
+#### ▪️ KF2-BuildTools
+#### ▪️ KF2-Game-Scripts
+#### ▪️ KF2-Ranked-Patch
+#### ▪️ KF2-SRV
 
 ### 🎮 MSK-GS Project
-#### KF2-MSK-GS
-#### KF2-MSK-GS-Resources
+#### ▪️ KF2-MSK-GS
+#### ▪️ KF2-MSK-GS-Resources
 
 ## 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
