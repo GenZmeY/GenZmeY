@@ -14,10 +14,11 @@
 - ⚙️ Former C++ developer & Golang developer
 - 🛠️ Ex Killing Floor 2 Modder & Server Operator
 
-## 🛠 Projects
+## 📂 Projects
 ### 💾 Apps
 #### ▪️ multini
-![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github)
+![Static Badge](https://img.shields.io/badge/Source-Codeberg-blue?style=flat&logo=codeberg&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github&logoColor=white)
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
 
