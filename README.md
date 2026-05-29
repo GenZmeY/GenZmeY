@@ -1,6 +1,6 @@
-![](PreviewAlt.png)
+# 👋 Hi there!
 
-# 👋 Hi, I'm GenZmeY
+![](PreviewAlt.png)
 
 ## About
 - Application Security Engineer, FOSS & Linux Enthusiast
