@@ -8,28 +8,28 @@
 
 ## 🛠 Projects
 ### 💾 Apps
-#### 🔳 multini
-#### ▪️ TG-Avatar-Alteration
+#### ▪️ multini
+#### 🔹 TG-Avatar-Alteration
 
 ### 🎨 Themes
-#### casper-i18n
+#### ▪️ casper-i18n
 
 ### 🎮 Killing Floor 2 Mods
-#### KF2-AdminAutoLogin
-#### KF2-BoxPainterLib
-#### KF2-ControlledVoteCollector
-#### KF2-CustomTraderInventory
-#### KF2-DroppedPickupLifespan
-#### KF2-LootedTraderInventory
-#### KF2-SafeMutLoader
-#### KF2-Server-Extension
-#### KF2-StartWave
-#### KF2-TAWOD
-#### KF2-TrueRandomBoss
-#### KF2-UnofficialMod
-#### KF2-YetAnotherScoreboard
-#### KF2-ZedSpawner
-#### KF2-ZedternalZeds
+#### ▪️ KF2-AdminAutoLogin
+#### ▪️ KF2-BoxPainterLib
+#### ▪️ KF2-ControlledVoteCollector
+#### ▪️ KF2-CustomTraderInventory
+#### ▪️ KF2-DroppedPickupLifespan
+#### ▪️ KF2-LootedTraderInventory
+#### ▪️ KF2-SafeMutLoader
+#### ▪️ KF2-Server-Extension
+#### ▪️ KF2-StartWave
+#### ▪️ KF2-TAWOD
+#### ▪️ KF2-TrueRandomBoss
+#### ▪️ KF2-UnofficialMod
+#### ▪️ KF2-YetAnotherScoreboard
+#### ▪️ KF2-ZedSpawner
+#### ▪️ KF2-ZedternalZeds
 
 ### 🎮 Killing Floor 2 Utils
 #### KF2-AntiDDoS
