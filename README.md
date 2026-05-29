@@ -2,6 +2,13 @@
 
 ![](PreviewAlt.png)
 
+[![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
+[![PlayStation](https://img.shields.io/static/v1?message=PlayStation&logo=playstation&labelColor=gray&color=blue&logoColor=white&label=%20)](https://psnprofiles.com/GenZmeY)
+[![Shikimori](https://img.shields.io/static/v1?message=Shikimori&logo=shikimori&labelColor=gray&color=lightgray&logoColor=white&label=%20)](https://shikimori.one/GenZmeY)
+[![DeviantArt](https://img.shields.io/static/v1?message=DeviantArt&logo=deviantart&labelColor=5c5c5c&color=00DC96&logoColor=white&label=%20)](https://www.deviantart.com/genzmey/gallery)
+[![LiveLib](https://img.shields.io/static/v1?message=LiveLib&logo=libreoffice&labelColor=gray&color=53BDFB&logoColor=white&label=%20)](https://www.livelib.ru/reader/GenZmeY)
+[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=gray&color=red&logoColor=white&label=%20)](https://www.youtube.com/user/GenZmeY)
+
 - 🔐 Application Security Engineer
 - 🐧 FOSS & Linux Enthusiast
 - ⚙️ Former C++ developer & Golang developer
@@ -9,7 +16,8 @@
 
 ## 🛠 Projects
 ### 💾 Apps
-#### ▪️ [multini](https://github.com/GenZmeY/multini)
+#### ▪️ multini
+![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github)
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
 
@@ -48,10 +56,3 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 #### ▪️ [KF2-MSK-GS]()
 #### ▪️ [KF2-MSK-GS-Resources]()
 
-## 🔗 Links
-[![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/id/GenZmeY)
-[![PlayStation](https://img.shields.io/static/v1?message=PlayStation&logo=playstation&labelColor=gray&color=blue&logoColor=white&label=%20)](https://psnprofiles.com/GenZmeY)
-[![Shikimori](https://img.shields.io/static/v1?message=Shikimori&logo=shikimori&labelColor=gray&color=lightgray&logoColor=white&label=%20)](https://shikimori.one/GenZmeY)
-[![DeviantArt](https://img.shields.io/static/v1?message=DeviantArt&logo=deviantart&labelColor=5c5c5c&color=00DC96&logoColor=white&label=%20)](https://www.deviantart.com/genzmey/gallery)
-[![LiveLib](https://img.shields.io/static/v1?message=LiveLib&logo=libreoffice&labelColor=gray&color=53BDFB&logoColor=white&label=%20)](https://www.livelib.ru/reader/GenZmeY)
-[![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=gray&color=red&logoColor=white&label=%20)](https://www.youtube.com/user/GenZmeY)
