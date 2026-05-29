@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Hi there! I'm GenZmeY
 
 ![](PreviewAlt.png)
 
@@ -9,16 +9,18 @@
 [![LiveLib](https://img.shields.io/static/v1?message=LiveLib&logo=libreoffice&labelColor=gray&color=53BDFB&logoColor=white&label=%20)](https://www.livelib.ru/reader/GenZmeY)
 [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=gray&color=red&logoColor=white&label=%20)](https://www.youtube.com/user/GenZmeY)
 
-- 🔐 Application Security Engineer
-- 🐧 FOSS & Linux Enthusiast
-- ⚙️ Former C++ developer & Golang developer
-- 🛠️ Ex Killing Floor 2 Modder & Server Operator
+- **🔐 Application Security Engineer**
+- **🐧 FOSS & Linux Enthusiast**
+- **⚙️ Former C++ developer & Golang developer**
+- **🛠️ Ex Killing Floor 2 Modder & Server Operator**
+
+---
 
 ## 📂 Projects
 ### 💾 Apps
 #### ▪️ multini
-![Static Badge](https://img.shields.io/badge/Source-Codeberg-blue?style=flat&logo=codeberg&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/Source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
+[![Static Badge](https://img.shields.io/badge/Source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/multini)
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which popular INI utilities don't handle correctly.
 
@@ -57,3 +59,4 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 #### ▪️ [KF2-MSK-GS]()
 #### ▪️ [KF2-MSK-GS-Resources]()
 
+---
