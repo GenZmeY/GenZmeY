@@ -22,7 +22,7 @@
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20created)
-![Static Badge](https://img.shields.io/badge/language-Go-blue?style=social&logo=go)
+![Static Badge](https://img.shields.io/badge/https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam?style=social&logo=go)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?style=social&label=%F0%9F%93%84%20license)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=social&label=%E2%AD%90%20stars)  
@@ -31,7 +31,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 #### ▪️ TG-Avatar-Alteration
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20created)
-![Static Badge](https://img.shields.io/badge/language-Python-blue?style=social&logo=python)
+![Static Badge](https://img.shields.io/badge/Python--blue?style=social&logo=python)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=%E2%AD%90%20stars)  
 Automatically changes your Telegram avatar every minute.
@@ -40,7 +40,7 @@ Automatically changes your Telegram avatar every minute.
 #### ▪️ casper-i18n
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/casper-i18n)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=social&label=%F0%9F%9A%80%20created)
-![Static Badge](https://img.shields.io/badge/language-Handlebars-orange?style=social&logo=handlebarsdotjs)
+![Static Badge](https://img.shields.io/badge/Handlebars--orange?style=social&logo=handlebarsdotjs)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/casper-i18n?style=social&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=%E2%AD%90%20stars)  
 A theme for the Ghost blogging engine, a fork of Casper with added localization.
@@ -52,7 +52,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 [![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%93%84%20license)
+![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=social&label=%E2%AD%90%20stars)  
 Small server-side mutator that allows specified players to automatically login as an admin. 
