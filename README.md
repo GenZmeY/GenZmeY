@@ -32,7 +32,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 #### ▪️ TG-Avatar-Alteration
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=flat&label=%F0%9F%9A%80%20created)
-![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
+![Static Badge](https://img.shields.io/badge/language-Python-blue?style=flat&logo=python)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/TG-Avatar-Alteration?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=flat&label=%E2%AD%90%20stars)  
 
@@ -42,6 +42,7 @@ Automatically change your Telegram avatar throughout the day.
 #### ▪️ casper-i18n
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/casper-i18n)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=flat&label=%F0%9F%9A%80%20created)
+![Static Badge](https://img.shields.io/badge/language-Handlebars-orange?style=flat&logo=handlebarsdotjs)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/casper-i18n?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=flat&label=%E2%AD%90%20stars)  
 
