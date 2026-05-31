@@ -232,7 +232,7 @@ Automating mod building processes.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20Copyright%20(C)-Tripwire%20Interactive%20LLC-lightgray?style=social)
+![Static Badge](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Tripwire%20Interactive%20LLC--white?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
 A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
 I used this repo to track changes in patches and update my mods for the current version of the game.
