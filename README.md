@@ -36,7 +36,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/TG-Avatar-Alteration?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=flat&label=%E2%AD%90%20stars)  
 
-Automatically change your Telegram avatar throughout the day.
+Automatically changes your Telegram avatar every minute.
 
 ### 🎨 Themes
 #### ▪️ casper-i18n
