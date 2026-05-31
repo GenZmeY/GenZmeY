@@ -258,6 +258,8 @@ A patch for the Windows and Linux KF2 server that allows you to use any mods and
 Command line tools for managing a set of Killing Floor 2 servers. It served the MSK-GS project well, but is now abandoned and has no documentation. Rest in peace 🪦.
 
 ### 🎮 MSK-GS Project
+Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018 to 2023 and held top positions in the global server rankings. The project has been closed for personal reasons.
+
 #### ▪️ KF2-MSK-GS
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
@@ -265,8 +267,10 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)  
+Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and/or combinations of other mutators for compatibility. Published under GPL-3.0 license after the MSK-GS project was closed.
 
 #### ▪️ KF2-MSK-GS-Resources
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)
+A complete set of MSK-GS server resources, such as configurations, map cycles, banner images, and so on. Published due to the closure of the MSK-GS project.
