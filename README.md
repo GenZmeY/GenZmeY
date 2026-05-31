@@ -69,7 +69,7 @@ A library for drawing 2D boxes in the style of the KF2 user interface.
 #### ▪️ KF2-ControlledVoteCollector
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ControlledVoteCollector)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ControlledVoteCollector?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-ControlledVoteCollector?style=social&label=%F0%9F%93%84%20license)
@@ -80,7 +80,7 @@ New Vote Collector with improvements and features such as public voting, kick lo
 #### ▪️ KF2-CustomTraderInventory
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-CustomTraderInventory?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-CustomTraderInventory?style=social&label=%F0%9F%93%84%20license)
@@ -92,7 +92,7 @@ Trader inventory management.
 #### ▪️ KF2-DroppedPickupLifespan
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=%F0%9F%93%84%20license)
@@ -103,7 +103,7 @@ A small server-side mutator for managing dropped weapon and dosh lifespans.
 #### ▪️ KF2-LootedTraderInventory
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-LootedTraderInventory)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-LootedTraderInventory?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-LootedTraderInventory?style=social&label=%F0%9F%93%84%20license)
@@ -125,7 +125,7 @@ A mutator loader that allows a kf2 server to remain ranked without violating the
 #### ▪️ KF2-Server-Extension
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Server-Extension?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-Server-Extension?style=social&label=%F0%9F%93%84%20license)
@@ -138,7 +138,7 @@ This is a further development of the ServerExt mutator from Marco and Forrest Ma
 #### ▪️ KF2-StartWave
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-StartWave)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-StartWave?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-StartWave?style=social&label=%F0%9F%93%84%20license)
@@ -150,7 +150,7 @@ An updated version of Pharrahnox's StartWave mod. Allows users to specify the st
 #### ▪️ KF2-TAWOD
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TAWOD)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TAWOD?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TAWOD?style=social&label=%F0%9F%93%84%20license)
@@ -161,7 +161,7 @@ Mutator that forces players to throw all their weapons on death (not just the cu
 #### ▪️ KF2-TrueRandomBoss
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TrueRandomBoss)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TrueRandomBoss?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TrueRandomBoss?style=social&label=%F0%9F%93%84%20license)
@@ -172,7 +172,7 @@ Server-side mutator that makes bosses truly random.
 #### ▪️ KF2-YetAnotherScoreboard
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=%F0%9F%93%84%20license)
@@ -183,7 +183,7 @@ Server-side mutator that makes bosses truly random.
 #### ▪️ KF2-ZedSpawner
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedSpawner?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-ZedSpawner?style=social&label=%F0%9F%93%84%20license)
@@ -194,7 +194,7 @@ Server-side mutator that makes bosses truly random.
 #### ▪️ KF2-ZedternalZeds
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedternalZeds)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedternalZeds?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-ZedternalZeds?style=social&label=%F0%9F%93%84%20license)
@@ -249,7 +249,7 @@ Server-side mutator that makes bosses truly random.
 #### ▪️ KF2-MSK-GS
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-MSK-GS?style=social&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=%E2%AD%90%20stars)  
