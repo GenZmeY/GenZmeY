@@ -167,13 +167,7 @@ Mutator that forces players to throw all their weapons on death (not just the cu
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TrueRandomBoss?style=flat&label=%F0%9F%93%84%20license)
 ![Steam Favorites](https://img.shields.io/steam/favorites/3047331564?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=flat&label=%E2%AD%90%20stars)  
-
-#### ▪️ KF2-UnofficialMod
-[![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-UnofficialMod)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-UnofficialMod?style=flat&label=%F0%9F%9A%80%20created)
-![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-UnofficialMod?style=flat&label=%F0%9F%93%84%20license)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-UnofficialMod?style=flat&label=%E2%AD%90%20stars)  
+Server-side mutator that makes bosses truly random.
 
 #### ▪️ KF2-YetAnotherScoreboard
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
