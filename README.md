@@ -25,8 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=flat&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=flat&label=%E2%AD%90%20stars) 
-
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=flat&label=%E2%AD%90%20stars)  
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
 
 #### ▪️ TG-Avatar-Alteration
@@ -35,7 +34,6 @@ A command-line utility for editing INI files, born from the need to automate wor
 ![Static Badge](https://img.shields.io/badge/language-Python-blue?style=flat&logo=python)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/TG-Avatar-Alteration?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=flat&label=%E2%AD%90%20stars)  
-
 Automatically changes your Telegram avatar every minute.
 
 ### 🎨 Themes
@@ -45,7 +43,6 @@ Automatically changes your Telegram avatar every minute.
 ![Static Badge](https://img.shields.io/badge/language-Handlebars-orange?style=flat&logo=handlebarsdotjs)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/casper-i18n?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=flat&label=%E2%AD%90%20stars)  
-
 A theme for the Ghost blogging engine, a fork of Casper with added localization.
 
 ### 🎮 Killing Floor 2 Mods
@@ -58,6 +55,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin?style=flat&label=%F0%9F%93%84%20license)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=flat&label=%E2%AD%90%20stars)  
+Small server-side mutator that allows specified players to automatically login as an admin. 
 
 #### ▪️ KF2-BoxPainterLib
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)
@@ -66,6 +64,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-BoxPainterLib?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=flat&label=%E2%AD%90%20stars)  
+A library for drawing 2D boxes in the style of the KF2 user interface.
 
 #### ▪️ KF2-ControlledVoteCollector
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
@@ -76,6 +75,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-ControlledVoteCollector?style=flat&label=%F0%9F%93%84%20license)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2847465899?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=flat&label=%E2%AD%90%20stars)  
+New Vote Collector with improvements and features such as public voting, kick logging, next map customization, statistics collection, and more.
 
 #### ▪️ KF2-CustomTraderInventory
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
@@ -87,6 +87,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2830826239?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2830826239?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=flat&label=%E2%AD%90%20stars)  
+Trader inventory management.
 
 #### ▪️ KF2-DroppedPickupLifespan
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
@@ -97,6 +98,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-DroppedPickupLifespan?style=flat&label=%F0%9F%93%84%20license)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864944858?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=flat&label=%E2%AD%90%20stars)  
+A small server-side mutator for managing dropped weapon and dosh lifespans.
 
 #### ▪️ KF2-LootedTraderInventory
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
@@ -108,6 +110,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2864857909?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864857909?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=flat&label=%E2%AD%90%20stars)  
+A heavily stripped-down version of CTI that only allows you to remove weapons from a trader. Created in the hopes of being whitelisted.
 
 #### ▪️ KF2-SafeMutLoader
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
@@ -117,6 +120,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-SafeMutLoader?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=flat&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=flat&label=%E2%AD%90%20stars)  
+A mutator loader that allows a kf2 server to remain ranked without violating the KF2 EULA.
 
 #### ▪️ KF2-Server-Extension
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
@@ -128,6 +132,8 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2085786712?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2085786712?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Server-Extension?style=flat&label=%E2%AD%90%20stars)  
+This mod replaces current perk system with a server-side perk progression with RPG elements, which let you buy individual stats and traits.
+This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
 
 #### ▪️ KF2-StartWave
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
@@ -139,6 +145,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521731447?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521731447?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=flat&label=%E2%AD%90%20stars)  
+An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn.
 
 #### ▪️ KF2-TAWOD
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
@@ -149,6 +156,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TAWOD?style=flat&label=%F0%9F%93%84%20license)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2379769040?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=flat&label=%E2%AD%90%20stars)  
+Mutator that forces players to throw all their weapons on death (not just the current weapon as in the game by default).
 
 #### ▪️ KF2-TrueRandomBoss
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
