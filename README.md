@@ -56,7 +56,7 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=social&label=Stars&logo=github)  
-Small server-side mutator that allows specified players to automatically login as an admin. 
+Small server-side mutator that allows specified players to automatically log in as an admin. 
 
 #### ▪️ KF2-BoxPainterLib
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)
@@ -121,7 +121,7 @@ A heavily stripped-down version of CTI that only allows you to remove weapons fr
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)  
-A mutator loader that allows a kf2 server to remain ranked without violating the KF2 EULA.
+A mutator loader that allows a KF2 server to remain ranked without violating the KF2 EULA.
 
 #### ▪️ KF2-Server-Extension
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
@@ -232,7 +232,7 @@ Automating mod building processes.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![Static Badge](https://img.shields.io/badge/%C2%A9%EF%B8%8F%20Tripwire%20Interactive%20LLC--white?style=social)
+![Static Badge](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
 A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
 I used this repo to track changes in patches and update my mods for the current version of the game.
