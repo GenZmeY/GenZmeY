@@ -225,7 +225,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20Copyright%20(C)-Tripwire%20Interactive%20LLC-lightgray)
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20Copyright%20(C)-Tripwire%20Interactive%20LLC-lightgray?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-Ranked-Patch
