@@ -282,7 +282,9 @@ Mutator providing some functions of MSK-GS servers. Contains implementations of 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)  
 A complete set of MSK-GS server resources, such as configurations, map cycles, banner images, and so on. Published due to the closure of the MSK-GS project.
 
-## 🤝 [Contributions](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+)
+## 🤝 Contributions
+[Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
+
 ### FHUD
 TODO
 ### DependencyFinder
