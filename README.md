@@ -235,6 +235,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-bash-green?style=flat&logo=gnubash)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-Ranked-Patch?style=flat&label=%F0%9F%93%84%20license)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=flat&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=flat&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-SRV
