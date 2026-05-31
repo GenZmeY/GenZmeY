@@ -223,7 +223,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-Game-Scripts?style=flat&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20Copyright%20(C)-Tripwire%20Interactive%20LLC-lightgray)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=flat&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-Ranked-Patch
@@ -248,7 +248,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
 [![Steam Workshop](https://img.shields.io/static/v1?style=flat&message=workshop&logo=steam&labelColor=gray&color=blue&logoColor=white&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-MSK-GS?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-MSK-GS?style=flat&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=flat&label=%E2%AD%90%20stars)  
@@ -256,6 +255,5 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 #### ▪️ KF2-MSK-GS-Resources
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-MSK-GS-Resources?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20license-custom-lightgray)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=flat&label=%E2%AD%90%20stars)
