@@ -16,6 +16,11 @@
 
 ---
 
+## TODO:
+[ ] My contributions
+[ ] Hyperlinks
+[ ] More detailed description in some cases
+
 ## 📂 Projects and Repos
 ### 💾 Apps
 #### ▪️ multini
