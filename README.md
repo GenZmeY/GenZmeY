@@ -181,6 +181,7 @@ Server-side mutator that makes bosses truly random.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521826524?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521826524?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)  
+Yet another scoreboard for Killing Floor 2.
 
 #### ▪️ KF2-ZedSpawner
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
@@ -192,6 +193,7 @@ Server-side mutator that makes bosses truly random.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2811290931?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2811290931?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedSpawner?style=social&label=Stars&logo=github)  
+Spawner for zeds.
 
 #### ▪️ KF2-ZedternalZeds
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
@@ -203,6 +205,7 @@ Server-side mutator that makes bosses truly random.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2811849367?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2811849367?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)  
+Zeds from ZedternalReborn, nothing more.
 
 ### 🎮 Killing Floor 2 Utils
 #### ▪️ KF2-AntiDDoS
@@ -213,6 +216,7 @@ Server-side mutator that makes bosses truly random.
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
+DDos protection.
 
 #### ▪️ KF2-BuildTools
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)
@@ -221,6 +225,7 @@ Server-side mutator that makes bosses truly random.
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
+Automating mod building processes.
 
 #### ▪️ KF2-Game-Scripts
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)
@@ -229,6 +234,9 @@ Server-side mutator that makes bosses truly random.
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20Copyright%20(C)-Tripwire%20Interactive%20LLC-lightgray?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
+A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
+I used this repo to track changes in patches and update my mods for the current version of the game.
+Killing Floor 2 support has ended and now this repo has no value except historical.
 
 #### ▪️ KF2-Ranked-Patch
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
@@ -238,6 +246,7 @@ Server-side mutator that makes bosses truly random.
 ![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
+A patch for the Windows and Linux KF2 server that allows you to use any mods and stay ranked. Violates the KF2 EULA.
 
 #### ▪️ KF2-SRV
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)
@@ -246,6 +255,7 @@ Server-side mutator that makes bosses truly random.
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
+Command line tools for managing a set of Killing Floor 2 servers. It served the MSK-GS project well, but is now abandoned and has no documentation. Rest in peace 🪦.
 
 ### 🎮 MSK-GS Project
 #### ▪️ KF2-MSK-GS
