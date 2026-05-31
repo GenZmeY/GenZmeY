@@ -23,7 +23,7 @@
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/Go--blue?style=social&logo=go)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=social&label=Stars&logo=github)  
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
@@ -32,7 +32,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/Python--blue?style=social&logo=python)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)  
 Automatically changes your Telegram avatar every minute.
 
@@ -41,15 +41,16 @@ Automatically changes your Telegram avatar every minute.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/casper-i18n)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/Handlebars--orange?style=social&logo=handlebarsdotjs)
+![Static Badge](https://img.shields.io/badge/CSS--white?style=social&logo=css)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/casper-i18n?style=social&label=%F0%9F%93%84%20license)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=Stars&logo=github)  
-A theme for the Ghost blogging engine, a fork of Casper with added localization.
+A theme for the Ghost blogging engine, Casper fork with added localization.
 
 ### 🎮 Killing Floor 2 Mods
 #### ▪️ KF2-AdminAutoLogin
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AdminAutoLogin)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
-[![Steam Workshop](https://img.shields.io/static/v1?style=social&message=Workshop&logo=steam&labelColor=gray&color=blue&label=steam%20)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
+[![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin?style=social&logo=gnu)
@@ -257,5 +258,5 @@ Server-side mutator that makes bosses truly random.
 #### ▪️ KF2-MSK-GS-Resources
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20license-custom-lightgray)
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20license-custom-lightgray?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)
