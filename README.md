@@ -21,6 +21,7 @@
 - [ ] Hyperlinks
 - [ ] More detailed description in some cases
 - [ ] MSK-GS global ranking proof
+- [ ] Braille art instead of png in header
 - [ ] add Doublecmd theme, casper localization(?)
 
 ## 📂 Projects and Repos
