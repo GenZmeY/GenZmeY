@@ -25,7 +25,7 @@
 - [ ] add Doublecmd theme, casper localization(?)
 
 ## 🤝 Contributions
-[Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
+[✅ Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [🟢 Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
 
 ### FHUD
 TODO
