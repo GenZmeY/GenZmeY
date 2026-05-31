@@ -3,7 +3,7 @@
 ![](PreviewAlt.png)
 
 - **🔐 Application Security Engineer**
-- **🐧 FOSS & Linux Enthusiast**
+- **🐧 Free (Libre) Software Enthusiast**
 - **⚙️ Former C++ developer & Golang developer**
 - **🛠️ Ex Killing Floor 2 Modder & Server Operator**
 
