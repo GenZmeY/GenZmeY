@@ -56,7 +56,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AdminAutoLogin?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/2848836389?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=flat&label=%E2%AD%90%20stars)  
 
@@ -75,7 +74,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ControlledVoteCollector?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-ControlledVoteCollector?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/2847465899?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2847465899?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=flat&label=%E2%AD%90%20stars)  
 
@@ -97,7 +95,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-DroppedPickupLifespan?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-DroppedPickupLifespan?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/2864944858?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864944858?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=flat&label=%E2%AD%90%20stars)  
 
@@ -150,7 +147,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TAWOD?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TAWOD?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/2379769040?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2379769040?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=flat&label=%E2%AD%90%20stars)  
 
@@ -161,7 +157,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TrueRandomBoss?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-TrueRandomBoss?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/3047331564?style=flat&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/3047331564?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=flat&label=%E2%AD%90%20stars)  
 
@@ -212,6 +207,7 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AntiDDoS?style=flat&label=%F0%9F%93%84%20license)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=flat&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=flat&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-BuildTools
@@ -255,8 +251,6 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-MSK-GS?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-unrealscript-orange?style=flat&logo=unrealengine)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-MSK-GS?style=flat&label=%F0%9F%93%84%20license)
-![Steam Downloads](https://img.shields.io/steam/downloads/2850677094?style=flat&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2850677094?style=flat&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=flat&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-MSK-GS-Resources
