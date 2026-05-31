@@ -269,5 +269,4 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 #### ▪️ KF2-MSK-GS-Resources
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
-![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20license-custom-lightgray?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)
