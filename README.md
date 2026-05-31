@@ -17,9 +17,11 @@
 ---
 
 ## TODO:
-- [ ] My contributions
+- [ ] My contributions (fhud, dep finder)
 - [ ] Hyperlinks
 - [ ] More detailed description in some cases
+- [ ] MSK-GS global ranking proof
+- [ ] add Doublecmd theme, casper localization(?)
 
 ## 📂 Projects and Repos
 ### 💾 Apps
