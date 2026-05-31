@@ -272,5 +272,11 @@ Mutator providing some functions of MSK-GS servers. Contains implementations of 
 #### ▪️ KF2-MSK-GS-Resources
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)  
 A complete set of MSK-GS server resources, such as configurations, map cycles, banner images, and so on. Published due to the closure of the MSK-GS project.
+
+## 🤝 Contributions
+### FHUD
+TODO
+### DependencyFinder
+TODO
