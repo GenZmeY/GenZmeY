@@ -16,7 +16,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects and Repos
 ### 💾 Apps
 #### ▪️ multini
 [![Static Badge](https://img.shields.io/badge/Codeberg--blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
