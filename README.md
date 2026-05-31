@@ -24,7 +24,7 @@
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=flat&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/language-Go-blue?style=flat&logo=go)
 ![GitHub License](https://img.shields.io/github/license/GenZmeY/multini?style=flat&label=%F0%9F%93%84%20license)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=flat&logo=github) 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=flat&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=flat&label=%E2%AD%90%20stars) 
 
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
