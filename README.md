@@ -210,7 +210,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/Go--blue?style=social&logo=go)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
 
@@ -219,7 +219,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
 
 #### ▪️ KF2-Game-Scripts
@@ -235,7 +235,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
 
@@ -244,7 +244,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20created)
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-SRV?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
 
 ### 🎮 MSK-GS Project
@@ -253,7 +253,7 @@ Server-side mutator that makes bosses truly random.
 [![Static Badge](https://img.shields.io/badge/GitHub--lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop--lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-MSK-GS?style=social&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)  
 
 #### ▪️ KF2-MSK-GS-Resources
