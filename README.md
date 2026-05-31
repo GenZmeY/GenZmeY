@@ -257,5 +257,5 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-MSK-GS-Resources?style=flat&label=%F0%9F%9A%80%20created)
-![GitHub License](https://img.shields.io/github/license/GenZmeY/KF2-MSK-GS-Resources?style=flat&label=%F0%9F%93%84%20license)
+![Static Badge](https://img.shields.io/badge/%F0%9F%93%84%20license-custom-lightgray)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=flat&label=%E2%AD%90%20stars)
