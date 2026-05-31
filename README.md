@@ -40,8 +40,13 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 
 ### 🎮 Killing Floor 2 Mods
 #### ▪️ KF2-AdminAutoLogin
+https://github.com/GenZmeY/KF2-AdminAutoLogin
+https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389
 #### ▪️ KF2-BoxPainterLib
+https://github.com/GenZmeY/KF2-BoxPainterLib
 #### ▪️ KF2-ControlledVoteCollector
+https://github.com/GenZmeY/KF2-ControlledVoteCollector
+https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899
 #### ▪️ KF2-CustomTraderInventory
 [![Static Badge](https://img.shields.io/badge/source-Codeberg-blue?style=flat&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Static Badge](https://img.shields.io/badge/source-GitHub-lightgray?style=flat&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
@@ -54,26 +59,54 @@ A theme for the Ghost blogging engine, a fork of Casper with added localization.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=flat&label=%E2%AD%90%20stars)  
 
 #### ▪️ KF2-DroppedPickupLifespan
+https://github.com/GenZmeY/KF2-DroppedPickupLifespan
+https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858
 #### ▪️ KF2-LootedTraderInventory
+https://github.com/GenZmeY/KF2-LootedTraderInventory
+https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909
 #### ▪️ KF2-SafeMutLoader
+https://github.com/GenZmeY/KF2-SafeMutLoader
 #### ▪️ KF2-Server-Extension
+https://github.com/GenZmeY/KF2-Server-Extension
+https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712
 #### ▪️ KF2-StartWave
+https://github.com/GenZmeY/KF2-StartWave
+https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447
 #### ▪️ KF2-TAWOD
+https://github.com/GenZmeY/KF2-TAWOD
+https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040
 #### ▪️ KF2-TrueRandomBoss
+https://github.com/GenZmeY/KF2-TrueRandomBoss
+https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564
 #### ▪️ KF2-UnofficialMod
+https://github.com/GenZmeY/KF2-UnofficialMod
 #### ▪️ KF2-YetAnotherScoreboard
+https://github.com/GenZmeY/KF2-YetAnotherScoreboard
+https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524
 #### ▪️ KF2-ZedSpawner
+https://github.com/GenZmeY/KF2-ZedSpawner
+https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931
 #### ▪️ KF2-ZedternalZeds
+https://github.com/GenZmeY/KF2-ZedternalZeds
+https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367
 
 ### 🎮 Killing Floor 2 Utils
 #### ▪️ KF2-AntiDDoS
+https://github.com/GenZmeY/KF2-AntiDDoS
 #### ▪️ KF2-BuildTools
+https://github.com/GenZmeY/KF2-BuildTools
 #### ▪️ KF2-Game-Scripts
+https://github.com/GenZmeY/KF2-Game-Scripts
 #### ▪️ KF2-Ranked-Patch
+https://github.com/GenZmeY/KF2-Ranked-Patch
 #### ▪️ KF2-SRV
+https://github.com/GenZmeY/KF2-SRV
 
 ### 🎮 MSK-GS Project
 #### ▪️ KF2-MSK-GS
+https://github.com/GenZmeY/KF2-MSK-GS
+https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094
 #### ▪️ KF2-MSK-GS-Resources
+https://github.com/GenZmeY/KF2-MSK-GS-Resources
 
 ---
