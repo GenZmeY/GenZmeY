@@ -49,7 +49,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 ![Language Python](https://img.shields.io/badge/Python--blue?style=social&logo=python)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)  
-Service (python + systemd timer) that automatically changes your Telegram avatar every minute using a folder of daily images.
+Service (python + systemd timer) that automatically changes your [Telegram](https://telegram.org) avatar every minute using a folder of daily images.
 
 ### 🎨 Themes
 - **casper-i18n**  
@@ -59,7 +59,7 @@ Service (python + systemd timer) that automatically changes your Telegram avatar
 ![Language CSS](https://img.shields.io/badge/CSS--white?style=social&logo=css)
 ![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=Stars&logo=github)  
-A theme for the Ghost blogging engine, Casper fork with added localization.
+A theme for the [Ghost](https://github.com/tryghost/ghost/) blogging engine, [Casper](https://github.com/TryGhost/Casper) fork with added localization.
 
 ### 🎮 Killing Floor 2 Utils
 ***Killing Floor 2** (**KF2**) is a first-person shooter video game developed and published by Tripwire Interactive. The game uses the Unreal Engine 3 and has the ability to host unofficial user servers, which creates great potential for modifications and improvements.*
@@ -72,7 +72,7 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
-Go-based tool that parses KF2 server logs in real-time and automatically blocks DDoS attackers via firewall scripts (deny/allow).
+Go-based tool that parses KF2 server logs in real-time and automatically blocks DDoS attackers via firewall rules.
 
 - **KF2-BuildTools**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)
@@ -81,7 +81,7 @@ Go-based tool that parses KF2 server logs in real-time and automatically blocks 
 ![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
-Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supports multiple projects, eliminates the need to manually edit the KFEditor.ini file, and saves a ton of time.
+Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supports multiple projects, eliminates the need to manually edit the `KFEditor.ini` file, and saves a ton of time.
 
 - **KF2-Game-Scripts**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)
@@ -107,7 +107,7 @@ A batch file for launching a KF2 Windows server. It contains variables for speci
 ![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
-Patch for Windows & Linux KF2 servers that disables unranked state, allows any mods and grants XP for custom weapons/zeds. Violates KF2 EULA.
+Patch for Windows & Linux KF2 servers that disables unranked state, allows any mods and grants XP for custom weapons/zeds. Violates [KF2 EULA](https://store.steampowered.com/eula/232090_eula_0).
 
 - **KF2-SRV**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)
@@ -116,7 +116,7 @@ Patch for Windows & Linux KF2 servers that disables unranked state, allows any m
 ![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
-Command line tools for managing a set of Killing Floor 2 servers. It served the MSK-GS project well, but is now abandoned and has no documentation. Rest in peace 🪦.
+Command line tools for managing a set of Killing Floor 2 servers. It served the [MSK-GS](https://steamcommunity.com/groups/msk-gs) project well, but is now abandoned and has no documentation. Rest in peace 🪦.
 
 ### 🎮 Killing Floor 2 Mods
 - **KF2-AdminAutoLogin**  
@@ -183,7 +183,7 @@ Server-side mutator that changes lifespan of dropped weapons and dosh.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2864857909?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864857909?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=social&label=Stars&logo=github)  
-A heavily stripped-down version of CTI that only allows you to remove weapons from a trader, not add them. Created in the hopes of being whitelisted.
+A heavily stripped-down version of [CTI](https://github.com/GenZmeY/KF2-CustomTraderInventory) that only allows you to remove weapons from a trader, not add them. Created in the hopes of being [whitelisted](https://forums.tripwireinteractive.com/index.php?threads/whitelisting-mods-and-mutators.120340/).
 
 - **KF2-SafeMutLoader**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)
@@ -193,7 +193,7 @@ A heavily stripped-down version of CTI that only allows you to remove weapons fr
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)  
-A mutator loader that allows the KF2 server to use non-whitelisted mods while staying ranked. It requires adding SML compatibility code to the mods, but it does not violate the KF2 EULA.
+A mutator loader that allows the KF2 server to use non-whitelisted mods while staying ranked. It requires adding [SML compatibility code](https://github.com/GenZmeY/KF2-SafeMutLoader/blob/master/DEV.md) to the mods, but it does not violate the [KF2 EULA](https://store.steampowered.com/eula/232090_eula_0).
 
 - **KF2-Server-Extension**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension)
@@ -205,7 +205,7 @@ A mutator loader that allows the KF2 server to use non-whitelisted mods while st
 ![Steam Downloads](https://img.shields.io/steam/downloads/2085786712?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2085786712?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Server-Extension?style=social&label=Stars&logo=github)  
-Server-side perk progression with RPG elements (buy individual stats/traits). Replaces the classic KF2 perk system. This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
+Server-side perk progression with RPG elements (buy individual stats/traits). Replaces the classic KF2 perk system. This is a further development of the ServerExt mutator from [Marco](https://steamcommunity.com/sharedfiles/filedetails/?id=681440898) and [Forrest Mark X](https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=1207269970).
 
 - **KF2-StartWave**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-StartWave)
@@ -217,7 +217,7 @@ Server-side perk progression with RPG elements (buy individual stats/traits). Re
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521731447?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521731447?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=social&label=Stars&logo=github)  
-An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn, jump waves via console and fix endless mode and difficulty issues.
+An updated version of [Pharrahnox's StartWave](https://steamcommunity.com/sharedfiles/filedetails/?id=1417081496) mod. Allows users to specify the starting wave and the boss that will spawn, jump waves via console and fix endless mode and difficulty issues.
 
 - **KF2-TAWOD**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TAWOD)
@@ -252,7 +252,7 @@ Server-side mutator that removes predictability and makes bosses truly random.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521826524?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521826524?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)  
-Custom scoreboard based on ClassicHUD with heavy modifications. Has a clean and informative appearance, supports a large number of players, contains some additional functionality such as player statuses, group membership, informational messages, and more.
+Custom scoreboard based on [ClassicHUD](https://steamcommunity.com/sharedfiles/filedetails/?id=1963099942) with heavy modifications. Has a clean and informative appearance, supports a large number of players, contains some additional functionality such as player statuses, group membership, informational messages, and more.
 
 - **KF2-ZedSpawner**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner)
@@ -276,10 +276,10 @@ Advanced zed spawner with player-dependent counts, cyclic spawning and separate 
 ![Steam Downloads](https://img.shields.io/steam/downloads/2811849367?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2811849367?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)  
-Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawner or other spawn mods.
+Collection of custom zeds from [ZedternalReborn](https://github.com/Erxandros/Zedternal-Reborn) (nothing else). Use with [ZedSpawner](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931) or other spawn mods.
 
 ### 🎮 MSK-GS Project
-*Moscow Game Servers (MSK-GS) is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.*
+*[Moscow Game Servers](https://steamcommunity.com/groups/msk-gs) (MSK-GS) is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was [closed](https://steamcommunity.com/groups/msk-gs/announcements/detail/3645134002744389126) in January 2023 for personal reasons.*
 
 - **KF2-MSK-GS**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
