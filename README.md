@@ -47,7 +47,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
 [![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/TG-Avatar-Alteration)
 [![Language Python](https://img.shields.io/badge/Python--blue?style=social&logo=python)](https://www.python.org/)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/TG-Avatar-Alteration/blob/master/COPYING)
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/TG-Avatar-Alteration/blob/master/LICENSE)
 [![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration/stargazers)  
 Service (python + systemd timer) that automatically changes your [Telegram](https://telegram.org) avatar every minute using a folder of daily images.
 
