@@ -246,7 +246,7 @@ Server-side mutator that removes predictability and makes bosses truly random.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521826524?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521826524?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)  
-Yet another scoreboard for Killing Floor 2.
+Custom scoreboard based on ClassicHUD with heavy modifications. Has a clean and informative appearance, supports a large number of players, contains some additional functionality such as player statuses, group membership, informational messages, and more.
 
 - **KF2-ZedSpawner**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
