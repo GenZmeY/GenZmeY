@@ -45,20 +45,20 @@ A command-line utility for editing INI files, born from the need to automate wor
 
 - **TG-Avatar-Alteration**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/TG-Avatar-Alteration)
 [![Language Python](https://img.shields.io/badge/Python--blue?style=social&logo=python)](https://www.python.org/)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/TG-Avatar-Alteration/blob/master/COPYING)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration/stargazers)  
 Service (python + systemd timer) that automatically changes your [Telegram](https://telegram.org) avatar every minute using a folder of daily images.
 
 ### 🎨 Themes
 - **casper-i18n**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/casper-i18n)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=social&label=%F0%9F%9A%80%20Created)
-![Language Handlebars](https://img.shields.io/badge/Handlebars--orange?style=social&logo=handlebarsdotjs)
-![Language CSS](https://img.shields.io/badge/CSS--white?style=social&logo=css)
-![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=Stars&logo=github)  
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/casper-i18n)
+[![Language Handlebars](https://img.shields.io/badge/Handlebars--orange?style=social&logo=handlebarsdotjs)](https://handlebarsjs.com/)
+[![Language CSS](https://img.shields.io/badge/CSS--white?style=social&logo=css)](https://www.w3.org/Style/CSS/)
+[![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)](https://github.com/GenZmeY/casper-i18n/blob/master/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/casper-i18n/stargazers)  
 A theme for the [Ghost](https://github.com/tryghost/ghost/) blogging engine, [Casper](https://github.com/TryGhost/Casper) fork with added localization.
 
 ### 🎮 Killing Floor 2 Utils
@@ -67,55 +67,55 @@ A theme for the [Ghost](https://github.com/tryghost/ghost/) blogging engine, [Ca
 - **KF2-AntiDDoS**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-AntiDDoS)
 [![Language Go](https://img.shields.io/badge/Go--blue?style=social&logo=go)](https://go.dev/)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-AntiDDoS/blob/master/COPYING)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads)](https://github.com/GenZmeY/KF2-AntiDDoS/releases) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS/stargazers)  
 Go-based tool that parses KF2 server logs in real-time and automatically blocks DDoS attackers via firewall rules.
 
 - **KF2-BuildTools**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-BuildTools)
 [![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-BuildTools/blob/master/COPYING)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-BuildTools/stargazers)  
 Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supports multiple projects, eliminates the need to manually edit the `KFEditor.ini` file, and saves a ton of time.
 
 - **KF2-Game-Scripts**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-Game-Scripts)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-![License Proprietary](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
+[![License Proprietary](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)](https://github.com/GenZmeY/KF2-Game-Scripts)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts/stargazers)  
 A complete set of KF2 scripts with a change history from v1105 to the latest v1150.
 Used to track patches and keep mods compatible with the current game. Since KF2 support has officially ended, this repository now has no value except historical.
 
 - **KF2-MyServer.bat**  
 [![Source GitHub](https://img.shields.io/badge/GitHub.Gist-🔗-lightgray?style=social&logo=github)](https://gist.github.com/GenZmeY/295f6c6665cac8bb79d1c2a7df60a75c)  
-![Language Batch](https://img.shields.io/badge/Batch--black?style=social&logo=gnometerminal)
-![GitHub Gist stars](https://img.shields.io/github/gist/stars/295f6c6665cac8bb79d1c2a7df60a75c?style=social)  
+[![Language Batch](https://img.shields.io/badge/Batch--black?style=social&logo=gnometerminal)](https://en.wikipedia.org/wiki/Batch_file)
+[![GitHub Gist stars](https://img.shields.io/github/gist/stars/295f6c6665cac8bb79d1c2a7df60a75c?style=social)](https://gist.github.com/GenZmeY/295f6c6665cac8bb79d1c2a7df60a75c/stargazers)  
 A batch file for launching a KF2 Windows server. It contains variables for specifying server parameters, which are used to assemble the startup command, and includes helpful comments and presets. A much more convenient alternative to the original `KF2Server.bat`.
 
 - **KF2-Ranked-Patch**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-Ranked-Patch)
 [![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)](https://www.gnu.org/software/bash/)
-![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
+[![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)](https://github.com/GenZmeY/KF2-Ranked-Patch/blob/master/LICENSE)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads)](https://github.com/GenZmeY/KF2-Ranked-Patch/releases) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch/stargazers)  
 Patch for Windows & Linux KF2 servers that disables unranked state, allows any mods and grants XP for custom weapons/zeds. Violates [KF2 EULA](https://store.steampowered.com/eula/232090_eula_0).
 
 - **KF2-SRV**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-SRV)
 [![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)](https://www.gnu.org/software/bash/)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-SRV/blob/master/COPYING)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-SRV/stargazers)  
 Command line tools for managing a set of Killing Floor 2 servers. It served the [MSK-GS](https://steamcommunity.com/groups/msk-gs) project well, but is now abandoned and has no documentation. Rest in peace 🪦.
 
 ### 🎮 Killing Floor 2 Mods
@@ -125,29 +125,29 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
 [![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-AdminAutoLogin/blob/master/COPYING)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-AdminAutoLogin/stargazers)  
 Small server-side mutator that allows specified players to automatically log in as an admin. 
 
 - **KF2-BoxPainterLib**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BoxPainterLib?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BoxPainterLib?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-BoxPainterLib)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=social&label=Stars&logo=github)  
+[![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-BoxPainterLib/blob/master/COPYING)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib/stargazers)  
 LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of KF2 interfaces. Ported from YetAnotherScoreboard; useful for custom HUDs, UIs.
 
 - **KF2-ControlledVoteCollector**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ControlledVoteCollector)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ControlledVoteCollector?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ControlledVoteCollector?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-ControlledVoteCollector)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Favorites](https://img.shields.io/steam/favorites/2847465899?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-ControlledVoteCollector/blob/master/COPYING)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2847465899?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-ControlledVoteCollector/stargazers)  
 Enhanced vote collector with public voting, kick logging, next-map control, statistics and more.
 
 - **KF2-CustomTraderInventory**  
@@ -166,116 +166,116 @@ Trader inventory management tool. Adds/removes items, preloads models, unlocks D
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Favorites](https://img.shields.io/steam/favorites/2864944858?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan/blob/master/COPYING)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2864944858?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan/stargazers)  
 Server-side mutator that changes lifespan of dropped weapons and dosh.
 
 - **KF2-LootedTraderInventory**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-LootedTraderInventory)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-LootedTraderInventory?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-LootedTraderInventory?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-LootedTraderInventory)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2864857909?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2864857909?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-LootedTraderInventory/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2864857909?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2864857909?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-LootedTraderInventory/stargazers)  
 A heavily stripped-down version of [CTI](https://github.com/GenZmeY/KF2-CustomTraderInventory) that only allows you to remove weapons from a trader, not add them. Created in the hopes of being [whitelisted](https://forums.tripwireinteractive.com/index.php?threads/whitelisting-mods-and-mutators.120340/).
 
 - **KF2-SafeMutLoader**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SafeMutLoader?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SafeMutLoader?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-SafeMutLoader)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-SafeMutLoader/blob/master/COPYING)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=social&label=%F0%9F%93%A5%20downloads)](https://github.com/GenZmeY/KF2-SafeMutLoader/releases) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader/stargazers)  
 A mutator loader that allows the KF2 server to use non-whitelisted mods while staying ranked. It requires adding [SML compatibility code](https://github.com/GenZmeY/KF2-SafeMutLoader/blob/master/DEV.md) to the mods, but it does not violate the [KF2 EULA](https://store.steampowered.com/eula/232090_eula_0).
 
 - **KF2-Server-Extension**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Server-Extension?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Server-Extension?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-Server-Extension)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2085786712?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2085786712?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Server-Extension?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-Server-Extension/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2085786712?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2085786712?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Server-Extension?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension/stargazers)  
 Server-side perk progression with RPG elements (buy individual stats/traits). Replaces the classic KF2 perk system. This is a further development of the ServerExt mutator from [Marco](https://steamcommunity.com/sharedfiles/filedetails/?id=681440898) and [Forrest Mark X](https://steamcommunity.com/sharedfiles/filedetails/?l=english&id=1207269970).
 
 - **KF2-StartWave**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-StartWave)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-StartWave?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-StartWave?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-StartWave)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2521731447?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2521731447?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-StartWave/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2521731447?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2521731447?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-StartWave/stargazers)  
 An updated version of [Pharrahnox's StartWave](https://steamcommunity.com/sharedfiles/filedetails/?id=1417081496) mod. Allows users to specify the starting wave and the boss that will spawn, jump waves via console and fix endless mode and difficulty issues.
 
 - **KF2-TAWOD**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TAWOD)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TAWOD?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TAWOD?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-TAWOD)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Favorites](https://img.shields.io/steam/favorites/2379769040?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-TAWOD/blob/master/COPYING)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2379769040?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-TAWOD/stargazers)  
 Forces players to throw all their weapons on death (not just the current weapon as in the game by default).
 
 - **KF2-TrueRandomBoss**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TrueRandomBoss)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TrueRandomBoss?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TrueRandomBoss?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-TrueRandomBoss)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Favorites](https://img.shields.io/steam/favorites/3047331564?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-TrueRandomBoss/blob/master/COPYING)
+[![Steam Favorites](https://img.shields.io/steam/favorites/3047331564?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-TrueRandomBoss/stargazers)  
 Server-side mutator that removes predictability and makes bosses truly random.
 
 - **KF2-YetAnotherScoreboard**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)
-![Steam Downloads](https://img.shields.io/steam/downloads/2521826524?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2521826524?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard/blob/master/COPYING)
+[![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard/blob/master/COPYING.LESSER)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2521826524?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2521826524?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard/stargazers)  
 Custom scoreboard based on [ClassicHUD](https://steamcommunity.com/sharedfiles/filedetails/?id=1963099942) with heavy modifications. Has a clean and informative appearance, supports a large number of players, contains some additional functionality such as player statuses, group membership, informational messages, and more.
 
 - **KF2-ZedSpawner**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedSpawner?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedSpawner?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-ZedSpawner)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2811290931?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2811290931?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedSpawner?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-ZedSpawner/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2811290931?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2811290931?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedSpawner?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner/stargazers)  
 Advanced zed spawner with player-dependent counts, cyclic spawning and separate settings for regular, special and boss waves.
 
 - **KF2-ZedternalZeds**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedternalZeds)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedternalZeds?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedternalZeds?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-ZedternalZeds)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2811849367?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2811849367?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-ZedternalZeds/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2811849367?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2811849367?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-ZedternalZeds/stargazers)  
 Collection of custom zeds from [ZedternalReborn](https://github.com/Erxandros/Zedternal-Reborn) (nothing else). Use with [ZedSpawner](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931) or other spawn mods.
 
 ### 🎮 MSK-GS Project
@@ -286,12 +286,12 @@ Collection of custom zeds from [ZedternalReborn](https://github.com/Erxandros/Ze
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-MSK-GS/blob/master/COPYING)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS/stargazers)  
 Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and combinations of other mutators for compatibility. For a long time, it served as a testing ground for my ideas, which were later published as standalone mods. Published under GPL-3.0 license after the MSK-GS project was closed.
 
 - **KF2-MSK-GS-Resources**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)  
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)  
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources/stargazers)  
 A complete set of MSK-GS server resources, such as configurations, map cycles, banner images, and so on. Published due to the closure of the MSK-GS project.
