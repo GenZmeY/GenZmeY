@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm GenZmeY
 
-![](PreviewAlt.png)
+![](banner.png)
 
 - **🔐 Application Security Engineer**
 - **🐧 Free (Libre) Software Enthusiast**
