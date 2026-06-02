@@ -34,8 +34,8 @@
 ## 📂 Projects
 ### 💾 Apps
 - **multini**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20Created)
 ![Language Go](https://img.shields.io/badge/Go--blue?style=social&logo=go)
 ![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
@@ -65,8 +65,8 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 ***Killing Floor 2** (**KF2**) is a first-person shooter video game developed and published by Tripwire Interactive. The game uses the Unreal Engine 3 and has the ability to host unofficial user servers, which creates great potential for modifications and improvements.*
 
 - **KF2-AntiDDoS**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20Created)
 ![Language Go](https://img.shields.io/badge/Go--blue?style=social&logo=go)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
@@ -75,8 +75,8 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 Go-based tool that parses KF2 server logs in real-time and automatically blocks DDoS attackers via firewall scripts (deny/allow).
 
 - **KF2-BuildTools**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20Created)
 ![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
@@ -84,8 +84,8 @@ Go-based tool that parses KF2 server logs in real-time and automatically blocks 
 Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supports multiple projects, eliminates the need to manually edit the KFEditor.ini file, and saves a ton of time.
 
 - **KF2-Game-Scripts**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![License Proprietary](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
@@ -97,11 +97,11 @@ Used to track patches and keep mods compatible with the current game. Since KF2 
 [![Source GitHub](https://img.shields.io/badge/GitHub.Gist-🔗-lightgray?style=social&logo=github)](https://gist.github.com/GenZmeY/295f6c6665cac8bb79d1c2a7df60a75c)  
 ![Language Batch](https://img.shields.io/badge/Batch--black?style=social&logo=gnometerminal)
 ![GitHub Gist stars](https://img.shields.io/github/gist/stars/295f6c6665cac8bb79d1c2a7df60a75c?style=social)  
-A batch file for launching a KF2 Windows server. It contains variables for specifying server parameters, which are used to assemble the startup command, and includes helpful comments and presets. A much more convenient alternative to the original KF2Server.bat.
+A batch file for launching a KF2 Windows server. It contains variables for specifying server parameters, which are used to assemble the startup command, and includes helpful comments and presets. A much more convenient alternative to the original `KF2Server.bat`.
 
 - **KF2-Ranked-Patch**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20Created)
 ![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
@@ -110,8 +110,8 @@ A batch file for launching a KF2 Windows server. It contains variables for speci
 Patch for Windows & Linux KF2 servers that disables unranked state, allows any mods and grants XP for custom weapons/zeds. Violates KF2 EULA.
 
 - **KF2-SRV**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20Created)
 ![Language Bash](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
@@ -120,8 +120,8 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 
 ### 🎮 Killing Floor 2 Mods
 - **KF2-AdminAutoLogin**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AdminAutoLogin)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AdminAutoLogin)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -131,8 +131,8 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 Small server-side mutator that allows specified players to automatically log in as an admin. 
 
 - **KF2-BoxPainterLib**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BoxPainterLib?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)
@@ -140,8 +140,8 @@ Small server-side mutator that allows specified players to automatically log in 
 LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of KF2 interfaces. Ported from YetAnotherScoreboard; useful for custom HUDs, UIs.
 
 - **KF2-ControlledVoteCollector**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ControlledVoteCollector)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ControlledVoteCollector?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -151,8 +151,8 @@ LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of
 Enhanced vote collector with public voting, kick logging, next-map control, statistics and more.
 
 - **KF2-CustomTraderInventory**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-CustomTraderInventory?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -163,8 +163,8 @@ Enhanced vote collector with public voting, kick logging, next-map control, stat
 Trader inventory management tool. Adds/removes items, preloads models, unlocks DLC weapons, proper sorting and more.
 
 - **KF2-DroppedPickupLifespan**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -174,8 +174,8 @@ Trader inventory management tool. Adds/removes items, preloads models, unlocks D
 Server-side mutator that changes lifespan of dropped weapons and dosh.
 
 - **KF2-LootedTraderInventory**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-LootedTraderInventory)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-LootedTraderInventory?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -186,8 +186,8 @@ Server-side mutator that changes lifespan of dropped weapons and dosh.
 A heavily stripped-down version of CTI that only allows you to remove weapons from a trader, not add them. Created in the hopes of being whitelisted.
 
 - **KF2-SafeMutLoader**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)  
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SafeMutLoader?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
@@ -196,8 +196,8 @@ A heavily stripped-down version of CTI that only allows you to remove weapons fr
 A mutator loader that allows the KF2 server to use non-whitelisted mods while staying ranked. It requires adding SML compatibility code to the mods, but it does not violate the KF2 EULA.
 
 - **KF2-Server-Extension**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Server-Extension?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -208,8 +208,8 @@ A mutator loader that allows the KF2 server to use non-whitelisted mods while st
 Server-side perk progression with RPG elements (buy individual stats/traits). Replaces the classic KF2 perk system. This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
 
 - **KF2-StartWave**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-StartWave)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-StartWave?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -220,8 +220,8 @@ Server-side perk progression with RPG elements (buy individual stats/traits). Re
 An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn, jump waves via console and fix endless mode and difficulty issues.
 
 - **KF2-TAWOD**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TAWOD)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TAWOD?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -231,8 +231,8 @@ An updated version of Pharrahnox's StartWave mod. Allows users to specify the st
 Forces players to throw all their weapons on death (not just the current weapon as in the game by default).
 
 - **KF2-TrueRandomBoss**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TrueRandomBoss)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-TrueRandomBoss?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -242,8 +242,8 @@ Forces players to throw all their weapons on death (not just the current weapon 
 Server-side mutator that removes predictability and makes bosses truly random.
 
 - **KF2-YetAnotherScoreboard**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -255,8 +255,8 @@ Server-side mutator that removes predictability and makes bosses truly random.
 Custom scoreboard based on ClassicHUD with heavy modifications. Has a clean and informative appearance, supports a large number of players, contains some additional functionality such as player statuses, group membership, informational messages, and more.
 
 - **KF2-ZedSpawner**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedSpawner?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -267,8 +267,8 @@ Custom scoreboard based on ClassicHUD with heavy modifications. Has a clean and 
 Advanced zed spawner with player-dependent counts, cyclic spawning and separate settings for regular, special and boss waves.
 
 - **KF2-ZedternalZeds**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedternalZeds)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-ZedternalZeds?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
@@ -282,8 +282,8 @@ Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawn
 *Moscow Game Servers (MSK-GS) is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.*
 
 - **KF2-MSK-GS**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
@@ -291,7 +291,7 @@ Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawn
 Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and combinations of other mutators for compatibility. For a long time, it served as a testing ground for my ideas, which were later published as standalone mods. Published under GPL-3.0 license after the MSK-GS project was closed.
 
 - **KF2-MSK-GS-Resources**  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)  
 A complete set of MSK-GS server resources, such as configurations, map cycles, banner images, and so on. Published due to the closure of the MSK-GS project.
