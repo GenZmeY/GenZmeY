@@ -17,24 +17,23 @@
 ---
 
 ## TODO:
-- [ ] My contributions (fhud, dep finder)
 - [ ] Hyperlinks
 - [ ] More detailed description in some cases
 - [ ] MSK-GS global ranking proof
 - [ ] Braille art instead of png in header
 - [ ] add Doublecmd theme, casper localization(?)
 
-## 🤝 Contributions
-[✅ Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [🟢 Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
-
-### FHUD
-TODO
-### DependencyFinder
-TODO
+## 🤝 Contributions ( [Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen) )
+- [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): add SML compatibility  
+[![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/2?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/2)
+- [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): fix "Accessed None 'Team'"  
+[![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/3?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/3)
+- [dependency-finder](https://github.com/jeantessier/dependency-finder): fix windows launch scripts  
+[![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/jeantessier/dependency-finder/13?style=social)](https://github.com/jeantessier/dependency-finder/pull/13)
 
 ## 📂 Projects
 ### 💾 Apps
-#### ▪️ multini
+- multini  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20Created)
