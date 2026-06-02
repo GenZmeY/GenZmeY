@@ -24,7 +24,7 @@
 ## 🤝 Contributions
 [![PRs Merged](https://img.shields.io/badge/%F0%9F%9F%A2%20Merged-%F0%9F%94%97-green?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY)
 [![PRs Opened](https://img.shields.io/badge/%F0%9F%94%B5%20Opened-%F0%9F%94%97-blue?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
-- [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): add SML compatibility  
+- [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): add [SML](https://github.com/GenZmeY/KF2-SafeMutLoader) compatibility  
 [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/2?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/2)
 - [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): fix "Accessed None 'Team'"  
 [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/3?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/3)
@@ -186,8 +186,8 @@ Server-side mutator that changes lifespan of dropped weapons and dosh.
 A heavily stripped-down version of CTI that only allows you to remove weapons from a trader, not add them. Created in the hopes of being whitelisted.
 
 - **KF2-SafeMutLoader**  
-[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)  
-[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
+[![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)
+[![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SafeMutLoader?style=social&label=%F0%9F%9A%80%20Created)
 ![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
