@@ -199,8 +199,7 @@ A mutator loader that allows the KF2 server to use non-whitelisted mods while st
 ![Steam Downloads](https://img.shields.io/steam/downloads/2085786712?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2085786712?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Server-Extension?style=social&label=Stars&logo=github)  
-This mod replaces current perk system with a server-side perk progression with RPG elements, which let you buy individual stats and traits.
-This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
+Server-side perk progression with RPG elements (buy individual stats/traits). Replaces the classic KF2 perk system. This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
 
 - **KF2-StartWave**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
@@ -212,7 +211,7 @@ This is a further development of the ServerExt mutator from Marco and Forrest Ma
 ![Steam Downloads](https://img.shields.io/steam/downloads/2521731447?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2521731447?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=social&label=Stars&logo=github)  
-An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn.
+An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn, jump waves via console and fix endless mode and difficulty issues.
 
 - **KF2-TAWOD**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
