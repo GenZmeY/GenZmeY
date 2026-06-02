@@ -135,7 +135,7 @@ Small server-side mutator that allows specified players to automatically log in 
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)  
 [![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BoxPainterLib?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-BoxPainterLib)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-BoxPainterLib/blob/master/COPYING)
+[![License LGPL3](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-BoxPainterLib/blob/master/COPYING.LESSER)
 [![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib/stargazers)  
 LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of KF2 interfaces. Ported from YetAnotherScoreboard; useful for custom HUDs, UIs.
 
