@@ -90,9 +90,8 @@ Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supp
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
-A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
-I used this repo to track changes in patches and update my mods for the current version of the game.
-Killing Floor 2 support has ended and now this repo has no value except historical.
+A complete set of Killing Floor 2 scripts with a change history from v1105 to the latest v1150.
+Used to track patches and keep mods compatible with the current game. Since Killing Floor 2 support has officially ended, this repository now has no value except historical.
 
 - **KF2-Ranked-Patch**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
