@@ -96,7 +96,7 @@ Used to track patches and keep mods compatible with the current game. Since KF2 
 - **KF2-MyServer.bat**  
 [![Static Badge](https://img.shields.io/badge/GitHub.Gist-🔗-lightgray?style=social&logo=github)]([https://github.com/GenZmeY/KF2-Ranked-Patch](https://gist.github.com/GenZmeY/295f6c6665cac8bb79d1c2a7df60a75c))  
 ![Static Badge](https://img.shields.io/badge/bat--black?style=social&logo=gnometerminal)
-![GitHub Gist stars](https://img.shields.io/github/gist/stars/295f6c6665cac8bb79d1c2a7df60a75c?style=social)
+![GitHub Gist stars](https://img.shields.io/github/gist/stars/295f6c6665cac8bb79d1c2a7df60a75c?style=social)  
 A bat file for launching the KF2 Windows server. It contains variables for specifying server parameters, which are used to assemble the startup string, and has comments and blocks with the necessary values ​​for the server parameters. A much more convenient alternative to the original KF2Server.bat.
 
 - **KF2-Ranked-Patch**  
