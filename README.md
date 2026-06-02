@@ -43,7 +43,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=social&label=Stars&logo=github)  
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
 
-#### ▪️ TG-Avatar-Alteration
+- **TG-Avatar-Alteration**  
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/TG-Avatar-Alteration)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/TG-Avatar-Alteration?style=social&label=%F0%9F%9A%80%20Created)
 ![Static Badge](https://img.shields.io/badge/Python--blue?style=social&logo=python)
@@ -52,7 +52,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 Automatically changes your Telegram avatar every minute.
 
 ### 🎨 Themes
-#### ▪️ casper-i18n
+- **casper-i18n**  
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/casper-i18n)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/casper-i18n?style=social&label=%F0%9F%9A%80%20Created)
 ![Static Badge](https://img.shields.io/badge/Handlebars--orange?style=social&logo=handlebarsdotjs)
@@ -61,8 +61,58 @@ Automatically changes your Telegram avatar every minute.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/casper-i18n?style=social&label=Stars&logo=github)  
 A theme for the Ghost blogging engine, Casper fork with added localization.
 
+### 🎮 Killing Floor 2 Utils
+- **KF2-AntiDDoS**  
+[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)
+[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20Created)
+![Static Badge](https://img.shields.io/badge/Go--blue?style=social&logo=go)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
+DDos protection.
+
+- **KF2-BuildTools**  
+[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)
+[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20Created)
+![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
+Automating mod building processes.
+
+- **KF2-Game-Scripts**  
+[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)
+[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
+![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
+![Static Badge](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
+A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
+I used this repo to track changes in patches and update my mods for the current version of the game.
+Killing Floor 2 support has ended and now this repo has no value except historical.
+
+- **KF2-Ranked-Patch**  
+[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
+[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20Created)
+![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
+![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
+A patch for the Windows and Linux KF2 server that allows you to use any mods and stay ranked. Violates the KF2 EULA.
+
+- **KF2-SRV**  
+[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)
+[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)  
+![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20Created)
+![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
+![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
+![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
+Command line tools for managing a set of Killing Floor 2 servers. It served the MSK-GS project well, but is now abandoned and has no documentation. Rest in peace 🪦.
+
 ### 🎮 Killing Floor 2 Mods
-#### ▪️ KF2-AdminAutoLogin
+- **KF2-AdminAutoLogin**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AdminAutoLogin)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
@@ -73,7 +123,7 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AdminAutoLogin?style=social&label=Stars&logo=github)  
 Small server-side mutator that allows specified players to automatically log in as an admin. 
 
-#### ▪️ KF2-BoxPainterLib
+- **KF2-BoxPainterLib**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BoxPainterLib)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BoxPainterLib)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BoxPainterLib?style=social&label=%F0%9F%9A%80%20Created)
@@ -82,7 +132,7 @@ Small server-side mutator that allows specified players to automatically log in 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=social&label=Stars&logo=github)  
 A library for drawing 2D boxes in the style of the KF2 user interface.
 
-#### ▪️ KF2-ControlledVoteCollector
+- **KF2-ControlledVoteCollector**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ControlledVoteCollector)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2847465899)  
@@ -93,7 +143,7 @@ A library for drawing 2D boxes in the style of the KF2 user interface.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=social&label=Stars&logo=github)  
 New Vote Collector with improvements and features such as public voting, kick logging, next map customization, statistics collection, and more.
 
-#### ▪️ KF2-CustomTraderInventory
+- **KF2-CustomTraderInventory**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)  
@@ -105,7 +155,7 @@ New Vote Collector with improvements and features such as public voting, kick lo
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=social&label=Stars&logo=github)  
 Trader inventory management.
 
-#### ▪️ KF2-DroppedPickupLifespan
+- **KF2-DroppedPickupLifespan**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-DroppedPickupLifespan)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864944858)  
@@ -116,7 +166,7 @@ Trader inventory management.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=Stars&logo=github)  
 A small server-side mutator for managing dropped weapon and dosh lifespans.
 
-#### ▪️ KF2-LootedTraderInventory
+- **KF2-LootedTraderInventory**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-LootedTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2864857909)  
@@ -128,7 +178,7 @@ A small server-side mutator for managing dropped weapon and dosh lifespans.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=social&label=Stars&logo=github)  
 A heavily stripped-down version of CTI that only allows you to remove weapons from a trader. Created in the hopes of being whitelisted.
 
-#### ▪️ KF2-SafeMutLoader
+- **KF2-SafeMutLoader**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SafeMutLoader)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SafeMutLoader?style=social&label=%F0%9F%9A%80%20Created)
@@ -138,7 +188,7 @@ A heavily stripped-down version of CTI that only allows you to remove weapons fr
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)  
 A mutator loader that allows a KF2 server to remain ranked without violating the KF2 EULA.
 
-#### ▪️ KF2-Server-Extension
+- **KF2-Server-Extension**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Server-Extension)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2085786712)  
@@ -151,7 +201,7 @@ A mutator loader that allows a KF2 server to remain ranked without violating the
 This mod replaces current perk system with a server-side perk progression with RPG elements, which let you buy individual stats and traits.
 This is a further development of the ServerExt mutator from Marco and Forrest Mark X.
 
-#### ▪️ KF2-StartWave
+- **KF2-StartWave**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-StartWave)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-StartWave)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521731447)  
@@ -163,7 +213,7 @@ This is a further development of the ServerExt mutator from Marco and Forrest Ma
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-StartWave?style=social&label=Stars&logo=github)  
 An updated version of Pharrahnox's StartWave mod. Allows users to specify the starting wave and the boss that will spawn.
 
-#### ▪️ KF2-TAWOD
+- **KF2-TAWOD**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TAWOD)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TAWOD)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2379769040)  
@@ -174,7 +224,7 @@ An updated version of Pharrahnox's StartWave mod. Allows users to specify the st
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=social&label=Stars&logo=github)  
 Mutator that forces players to throw all their weapons on death (not just the current weapon as in the game by default).
 
-#### ▪️ KF2-TrueRandomBoss
+- **KF2-TrueRandomBoss**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-TrueRandomBoss)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3047331564)  
@@ -185,7 +235,7 @@ Mutator that forces players to throw all their weapons on death (not just the cu
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=social&label=Stars&logo=github)  
 Server-side mutator that makes bosses truly random.
 
-#### ▪️ KF2-YetAnotherScoreboard
+- **KF2-YetAnotherScoreboard**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-YetAnotherScoreboard)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2521826524)  
@@ -198,7 +248,7 @@ Server-side mutator that makes bosses truly random.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-YetAnotherScoreboard?style=social&label=Stars&logo=github)  
 Yet another scoreboard for Killing Floor 2.
 
-#### ▪️ KF2-ZedSpawner
+- **KF2-ZedSpawner**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedSpawner)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedSpawner)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811290931)  
@@ -210,7 +260,7 @@ Yet another scoreboard for Killing Floor 2.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedSpawner?style=social&label=Stars&logo=github)  
 Spawner for zeds.
 
-#### ▪️ KF2-ZedternalZeds
+- **KF2-ZedternalZeds**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-ZedternalZeds)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2811849367)  
@@ -222,60 +272,10 @@ Spawner for zeds.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)  
 Zeds from ZedternalReborn, nothing more.
 
-### 🎮 Killing Floor 2 Utils
-#### ▪️ KF2-AntiDDoS
-[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)
-[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AntiDDoS?style=social&label=%F0%9F%9A%80%20Created)
-![Static Badge](https://img.shields.io/badge/Go--blue?style=social&logo=go)
-![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
-DDos protection.
-
-#### ▪️ KF2-BuildTools
-[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)
-[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-BuildTools)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-BuildTools?style=social&label=%F0%9F%9A%80%20Created)
-![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
-Automating mod building processes.
-
-#### ▪️ KF2-Game-Scripts
-[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)
-[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Game-Scripts)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Game-Scripts?style=social&label=%F0%9F%9A%80%20Created)
-![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
-![Static Badge](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
-A complete set of scripts from Killing Floor 2 with a history of changes from 2020 (version 1105) to 2024 (up to the latest version 1150).
-I used this repo to track changes in patches and update my mods for the current version of the game.
-Killing Floor 2 support has ended and now this repo has no value except historical.
-
-#### ▪️ KF2-Ranked-Patch
-[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
-[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-Ranked-Patch)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-Ranked-Patch?style=social&label=%F0%9F%9A%80%20Created)
-![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
-A patch for the Windows and Linux KF2 server that allows you to use any mods and stay ranked. Violates the KF2 EULA.
-
-#### ▪️ KF2-SRV
-[![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)
-[![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-SRV)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-SRV?style=social&label=%F0%9F%9A%80%20Created)
-![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
-![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SRV?style=social&label=Stars&logo=github)  
-Command line tools for managing a set of Killing Floor 2 servers. It served the MSK-GS project well, but is now abandoned and has no documentation. Rest in peace 🪦.
-
 ### 🎮 MSK-GS Project
 Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018 to 2023 and held top positions in the global server rankings. The project has been closed for personal reasons.
 
-#### ▪️ KF2-MSK-GS
+- **KF2-MSK-GS**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2850677094)  
@@ -284,7 +284,7 @@ Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)  
 Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and/or combinations of other mutators for compatibility. Published under GPL-3.0 license after the MSK-GS project was closed.
 
-#### ▪️ KF2-MSK-GS-Resources
+- **KF2-MSK-GS-Resources**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-MSK-GS-Resources)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS-Resources?style=social&label=Stars&logo=github)  
