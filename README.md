@@ -273,7 +273,6 @@ Advanced zed spawner with player-dependent counts, cyclic spawning and separate 
 Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawner or other spawn mods.
 
 ### 🎮 MSK-GS Project
-Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018 to 2023 and held top positions in the global server rankings. The project has been closed for personal reasons.
 Moscow Game Servers is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.
 
 - **KF2-MSK-GS**  
