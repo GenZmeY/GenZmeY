@@ -18,10 +18,8 @@
 
 ## TODO:
 - [ ] Hyperlinks
-- [ ] More detailed description in some cases
 - [ ] MSK-GS global ranking proof
 - [ ] Braille art instead of png in header
-- [ ] add Doublecmd theme, casper localization(?)
 
 ## 🤝 Contributions
 [![Static Badge](https://img.shields.io/badge/%F0%9F%9F%A2%20Merged-%F0%9F%94%97-green?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+)
@@ -275,7 +273,7 @@ Advanced zed spawner with player-dependent counts, cyclic spawning and separate 
 Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawner or other spawn mods.
 
 ### 🎮 MSK-GS Project
-*Moscow Game Servers is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.*
+*Moscow Game Servers (MSK-GS) is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.*
 
 - **KF2-MSK-GS**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
