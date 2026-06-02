@@ -270,10 +270,11 @@ Advanced zed spawner with player-dependent counts, cyclic spawning and separate 
 ![Steam Downloads](https://img.shields.io/steam/downloads/2811849367?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2811849367?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedternalZeds?style=social&label=Stars&logo=github)  
-Zeds from ZedternalReborn, nothing more.
+Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawner or other spawn mods.
 
 ### 🎮 MSK-GS Project
 Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018 to 2023 and held top positions in the global server rankings. The project has been closed for personal reasons.
+Moscow Game Servers is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.
 
 - **KF2-MSK-GS**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
@@ -282,7 +283,7 @@ Moscow Game Servers is a group of Killing Floor 2 servers that existed from 2018
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-MSK-GS?style=social&label=Stars&logo=github)  
-Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and/or combinations of other mutators for compatibility. Published under GPL-3.0 license after the MSK-GS project was closed.
+Mutator providing some functions of MSK-GS servers. Contains implementations of my ideas and combinations of other mutators for compatibility. For a long time, it served as a testing ground for my ideas, which were later published as standalone mods. Published under GPL-3.0 license after the MSK-GS project was closed.
 
 - **KF2-MSK-GS-Resources**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS-Resources)
