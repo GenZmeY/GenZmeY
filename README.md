@@ -64,6 +64,8 @@ Service (python + systemd timer) that automatically changes your Telegram avatar
 A theme for the Ghost blogging engine, Casper fork with added localization.
 
 ### 🎮 Killing Floor 2 Utils
+***Killing Floor 2** (**KF2**) is a first-person shooter video game developed and published by Tripwire Interactive. The game uses the Unreal Engine 3 and has the ability to host unofficial user servers, which creates great potential for modifications and improvements.*
+
 - **KF2-AntiDDoS**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AntiDDoS)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)  
@@ -273,7 +275,7 @@ Advanced zed spawner with player-dependent counts, cyclic spawning and separate 
 Collection of custom zeds from ZedternalReborn (nothing else). Use with ZedSpawner or other spawn mods.
 
 ### 🎮 MSK-GS Project
-Moscow Game Servers is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.
+*Moscow Game Servers is a group of Killing Floor 2 servers that existed since 2018 and held top positions in the global server rankings. The project was closed in January 2023 for personal reasons.*
 
 - **KF2-MSK-GS**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-MSK-GS)
