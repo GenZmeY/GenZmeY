@@ -90,8 +90,8 @@ Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supp
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/Proprietary%20(Tripwire%20Interactive%20LLC)--white?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Game-Scripts?style=social&label=Stars&logo=github)  
-A complete set of Killing Floor 2 scripts with a change history from v1105 to the latest v1150.
-Used to track patches and keep mods compatible with the current game. Since Killing Floor 2 support has officially ended, this repository now has no value except historical.
+A complete set of KF2 scripts with a change history from v1105 to the latest v1150.
+Used to track patches and keep mods compatible with the current game. Since KF2 support has officially ended, this repository now has no value except historical.
 
 - **KF2-Ranked-Patch**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Ranked-Patch)
@@ -101,7 +101,7 @@ Used to track patches and keep mods compatible with the current game. Since Kill
 ![Static Badge](https://img.shields.io/badge/📄%20MIT--white?style=social)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-Ranked-Patch/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-Ranked-Patch?style=social&label=Stars&logo=github)  
-A patch for the Windows and Linux KF2 server that allows you to use any mods and stay ranked. Violates the KF2 EULA.
+Patch for Windows & Linux KF2 servers that disables unranked state, allows any mods and grants XP for custom weapons/zeds. Violates KF2 EULA.
 
 - **KF2-SRV**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SRV)
