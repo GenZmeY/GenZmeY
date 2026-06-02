@@ -23,7 +23,9 @@
 - [ ] Braille art instead of png in header
 - [ ] add Doublecmd theme, casper localization(?)
 
-## 🤝 Contributions ( [Merged](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+) | [Opened](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen) )
+## 🤝 Contributions
+[![Static Badge](https://img.shields.io/badge/%F0%9F%9F%A2%20Merged-%F0%9F%94%97-green?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY+)
+[![Static Badge](https://img.shields.io/badge/%F0%9F%94%B5%20Opened-%F0%9F%94%97-blue?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
 - [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): add SML compatibility  
 [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/2?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/2)
 - [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): fix "Accessed None 'Team'"  
