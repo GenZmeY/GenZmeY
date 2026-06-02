@@ -258,7 +258,7 @@ Custom scoreboard based on ClassicHUD with heavy modifications. Has a clean and 
 ![Steam Downloads](https://img.shields.io/steam/downloads/2811290931?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2811290931?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ZedSpawner?style=social&label=Stars&logo=github)  
-Spawner for zeds.
+Advanced zed spawner with player-dependent counts, cyclic spawning and separate settings for regular, special and boss waves.
 
 - **KF2-ZedternalZeds**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ZedternalZeds)
