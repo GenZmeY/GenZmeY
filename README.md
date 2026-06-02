@@ -222,7 +222,7 @@ An updated version of Pharrahnox's StartWave mod. Allows users to specify the st
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2379769040?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TAWOD?style=social&label=Stars&logo=github)  
-Mutator that forces players to throw all their weapons on death (not just the current weapon as in the game by default).
+Forces players to throw all their weapons on death (not just the current weapon as in the game by default).
 
 - **KF2-TrueRandomBoss**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-TrueRandomBoss)
@@ -233,7 +233,7 @@ Mutator that forces players to throw all their weapons on death (not just the cu
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/3047331564?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-TrueRandomBoss?style=social&label=Stars&logo=github)  
-Server-side mutator that makes bosses truly random.
+Server-side mutator that removes predictability and makes bosses truly random.
 
 - **KF2-YetAnotherScoreboard**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-YetAnotherScoreboard)
