@@ -142,7 +142,7 @@ LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2847465899?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-ControlledVoteCollector?style=social&label=Stars&logo=github)  
-New Vote Collector with improvements and features such as public voting, kick logging, next map customization, statistics collection, and more.
+Enhanced vote collector with public voting, kick logging, next-map control, statistics and more.
 
 - **KF2-CustomTraderInventory**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
@@ -154,7 +154,7 @@ New Vote Collector with improvements and features such as public voting, kick lo
 ![Steam Downloads](https://img.shields.io/steam/downloads/2830826239?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2830826239?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=social&label=Stars&logo=github)  
-Trader inventory management.
+Trader inventory management tool. Adds/removes items, preloads models, unlocks DLC weapons, proper sorting and more.
 
 - **KF2-DroppedPickupLifespan**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-DroppedPickupLifespan)
@@ -165,7 +165,7 @@ Trader inventory management.
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864944858?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-DroppedPickupLifespan?style=social&label=Stars&logo=github)  
-A small server-side mutator for managing dropped weapon and dosh lifespans.
+Server-side mutator that changes lifespan of dropped weapons and dosh.
 
 - **KF2-LootedTraderInventory**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-LootedTraderInventory)
@@ -177,7 +177,7 @@ A small server-side mutator for managing dropped weapon and dosh lifespans.
 ![Steam Downloads](https://img.shields.io/steam/downloads/2864857909?style=social&logo=steam)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2864857909?style=social&logo=steam)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-LootedTraderInventory?style=social&label=Stars&logo=github)  
-A heavily stripped-down version of CTI that only allows you to remove weapons from a trader. Created in the hopes of being whitelisted.
+A heavily stripped-down version of CTI that only allows you to remove weapons from a trader, not add them. Created in the hopes of being whitelisted.
 
 - **KF2-SafeMutLoader**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-SafeMutLoader)
@@ -187,7 +187,7 @@ A heavily stripped-down version of CTI that only allows you to remove weapons fr
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-SafeMutLoader/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-SafeMutLoader?style=social&label=Stars&logo=github)  
-A mutator loader that allows a KF2 server to remain ranked without violating the KF2 EULA.
+A mutator loader that allows the KF2 server to use non-whitelisted mods while staying ranked. It requires adding SML compatibility code to the mods, but it does not violate the KF2 EULA.
 
 - **KF2-Server-Extension**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Server-Extension)
