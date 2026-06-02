@@ -16,11 +16,6 @@
 
 ---
 
-## TODO:
-- [ ] Hyperlinks
-- [ ] MSK-GS global ranking proof
-- [ ] Braille art instead of png in header
-
 ## 🤝 Contributions
 [![PRs Merged](https://img.shields.io/badge/%F0%9F%9F%A2%20Merged-%F0%9F%94%97-green?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY)
 [![PRs Opened](https://img.shields.io/badge/%F0%9F%94%B5%20Opened-%F0%9F%94%97-blue?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
