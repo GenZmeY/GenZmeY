@@ -19,6 +19,9 @@
 ## 🤝 Contributions
 [![PRs Merged](https://img.shields.io/badge/%F0%9F%9F%A2%20Merged-%F0%9F%94%97-green?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+is%3Amerged+-user%3AGenZmeY)
 [![PRs Opened](https://img.shields.io/badge/%F0%9F%94%B5%20Opened-%F0%9F%94%97-blue?style=social)](https://github.com/pulls?q=is%3Apr+author%3AGenZmeY+-user%3AGenZmeY+is%3Aopen)
+- [rms-support-letter](https://github.com/rms-support-letter/rms-support-letter.github.io): Create GenZmeY.yaml  
+[![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/age/rms-support-letter/rms-support-letter.github.io/2373?style=social)](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/2373)
+[![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/rms-support-letter/rms-support-letter.github.io/2373?style=social)](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/2373)
 - [kf2-friendlyhud](https://github.com/notpeelz/kf2-friendlyhud): add [SML](https://github.com/GenZmeY/KF2-SafeMutLoader) compatibility  
 [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/age/notpeelz/kf2-friendlyhud/2?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/2)
 [![GitHub issue/pull request detail](https://img.shields.io/github/pulls/detail/state/notpeelz/kf2-friendlyhud/2?style=social)](https://github.com/notpeelz/kf2-friendlyhud/pull/2)
