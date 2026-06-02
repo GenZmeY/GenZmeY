@@ -131,7 +131,7 @@ Small server-side mutator that allows specified players to automatically log in 
 ![Static Badge](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)
 ![Static Badge](https://img.shields.io/badge/LGPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BoxPainterLib?style=social&label=Stars&logo=github)  
-A library for drawing 2D boxes in the style of the KF2 user interface.
+LGPLv3 library for drawing 2D UI boxes on KF2 canvas, copies the visual style of KF2 interfaces. Ported from YetAnotherScoreboard; useful for custom HUDs, UIs.
 
 - **KF2-ControlledVoteCollector**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-ControlledVoteCollector)
