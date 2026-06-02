@@ -36,11 +36,11 @@
 - **multini**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/multini)
 [![Language Go](https://img.shields.io/badge/Go--blue?style=social&logo=go)](https://go.dev/)
-![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=social&label=%F0%9F%93%A5%20downloads) 
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=social&label=Stars&logo=github)  
+[![License MIT](https://img.shields.io/badge/📄%20MIT--white?style=social)](https://github.com/GenZmeY/multini/blob/master/LICENSE)
+[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/multini/total?style=social&label=%F0%9F%93%A5%20downloads)](https://github.com/GenZmeY/multini/releases)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/multini?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/multini/stargazers)  
 A command-line utility for editing INI files, born from the need to automate work with Killing Floor 2 (Unreal Engine 3.5) configs. Games using this engine use duplicate keys with different values ​​in their configs, which other INI utilities don't handle correctly.
 
 - **TG-Avatar-Alteration**  
@@ -123,7 +123,7 @@ Command line tools for managing a set of Killing Floor 2 servers. It served the 
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-AdminAutoLogin)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2848836389)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-AdminAutoLogin?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-AdminAutoLogin)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
 [![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
 ![Steam Favorites](https://img.shields.io/steam/favorites/2848836389?style=social&logo=steam)
@@ -154,12 +154,12 @@ Enhanced vote collector with public voting, kick logging, next-map control, stat
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
 [![Source Codeberg](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-CustomTraderInventory)
 [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-🔗-lightgray?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)  
-![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-CustomTraderInventory?style=social&label=%F0%9F%9A%80%20Created)
+[![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/KF2-CustomTraderInventory?style=social&label=%F0%9F%9A%80%20Created)](https://github.com/GenZmeY/KF2-CustomTraderInventory)
 [![Language UScript](https://img.shields.io/badge/UnrealScript--orange?style=social&logo=unrealengine)](https://docs.unrealengine.com/udk/Three/UnrealScriptHome.html)
-[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://www.gnu.org/licenses/gpl-3.0.html#license-text)
-![Steam Downloads](https://img.shields.io/steam/downloads/2830826239?style=social&logo=steam)
-![Steam Favorites](https://img.shields.io/steam/favorites/2830826239?style=social&logo=steam)
-![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=social&label=Stars&logo=github)  
+[![License GPL3](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)](https://github.com/GenZmeY/KF2-CustomTraderInventory/blob/master/COPYING)
+[![Steam Downloads](https://img.shields.io/steam/downloads/2830826239?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)
+[![Steam Favorites](https://img.shields.io/steam/favorites/2830826239?style=social&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=2830826239)
+[![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-CustomTraderInventory?style=social&label=Stars&logo=github)](https://github.com/GenZmeY/KF2-CustomTraderInventory/stargazers)  
 Trader inventory management tool. Adds/removes items, preloads models, unlocks DLC weapons, proper sorting and more.
 
 - **KF2-DroppedPickupLifespan**  
