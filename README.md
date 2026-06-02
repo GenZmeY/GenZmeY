@@ -35,7 +35,7 @@
 
 ## 📂 Projects
 ### 💾 Apps
-- multini  
+- **multini**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/multini)
 [![Static Badge](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/multini)  
 ![GitHub Created At](https://img.shields.io/github/created-at/GenZmeY/multini?style=social&label=%F0%9F%9A%80%20Created)
@@ -51,7 +51,7 @@ A command-line utility for editing INI files, born from the need to automate wor
 ![Static Badge](https://img.shields.io/badge/Python--blue?style=social&logo=python)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/TG-Avatar-Alteration?style=social&label=Stars&logo=github)  
-Automatically changes your Telegram avatar every minute.
+Service (python + systemd timer) that automatically changes your Telegram avatar every minute using a folder of daily images.
 
 ### 🎨 Themes
 - **casper-i18n**  
@@ -72,7 +72,7 @@ A theme for the Ghost blogging engine, Casper fork with added localization.
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/GenZmeY/KF2-AntiDDoS/total?style=social&label=%F0%9F%93%A5%20downloads) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-AntiDDoS?style=social&label=Stars&logo=github)  
-DDos protection.
+Go-based tool that parses KF2 server logs in real-time and automatically blocks DDoS attackers via firewall scripts (deny/allow).
 
 - **KF2-BuildTools**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-BuildTools)
@@ -81,7 +81,7 @@ DDos protection.
 ![Static Badge](https://img.shields.io/badge/bash--black?style=social&logo=gnubash)
 ![Static Badge](https://img.shields.io/badge/GPL--3.0--white?style=social&logo=gnu)
 ![GitHub Repo stars](https://img.shields.io/github/stars/GenZmeY/KF2-BuildTools?style=social&label=Stars&logo=github)  
-Automating mod building processes.
+Bash script for building, testing and uploading KF2 mods to Steam Workshop. Supports multiple projects, eliminates the need to manually edit the KFEditor.ini file, and saves a ton of time.
 
 - **KF2-Game-Scripts**  
 [![Static Badge](https://img.shields.io/badge/Codeberg-🔗-blue?style=social&logo=codeberg)](https://codeberg.org/GenZmeY/KF2-Game-Scripts)
