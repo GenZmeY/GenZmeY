@@ -63,7 +63,6 @@ Service (python + systemd timer) that automatically changes your [Telegram](http
 A theme for the [Ghost](https://github.com/tryghost/ghost/) blogging engine, [Casper](https://github.com/TryGhost/Casper) fork with added localization.
 
 ### 🎮 Killing Floor 2 Utils
-***Killing Floor 2** (**KF2**) is a first-person shooter video game developed and published by Tripwire Interactive. The game uses the Unreal Engine 3 and has the ability to host unofficial user servers, which creates great potential for modifications and improvements.*
 
 - **KF2-AntiDDoS**  
 [![Source GitHub](https://img.shields.io/badge/GitHub-🔗-lightgray?style=social&logo=github)](https://github.com/GenZmeY/KF2-AntiDDoS)
